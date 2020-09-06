@@ -17,12 +17,14 @@ _count = 0
 print (len(lines))
 _len_lines = len(lines)
 _arr_hour = [0, 6, 12, 18]
+_arr_mouth = ['Aug', 'Sep']
 while (_count < _len_lines):
     # if _count == 0:
-    # print (lines[_count])
+    print (lines[_count])
     date_line = lines[_count]
+    date_line = " ".join(date_line.split())
     # print (date_line)
-    if date_line.split(' ')[1] == 'Aug':
+    if date_line.split(' ')[1] in _arr_mouth:
         # print (lines[_count])
         # print (date_line.split(' ')[1])
         # print ('---')
@@ -73,7 +75,7 @@ while (_count < _len_lines):
             print ('---')
             row += 1
         # use for viralint
-        if (_count > 900 and _count < 11153):
+        if (_count > 900 and _count < 1153):
             _count += 7
         else:
             _count += 8
@@ -81,5 +83,8 @@ while (_count < _len_lines):
         _count += 1
         # drop line
         _count += 1
-        _count += 8
+        if (_count > 900 and _count < 1153):
+            _count += 7
+        else:
+            _count += 8
 workbook.close()

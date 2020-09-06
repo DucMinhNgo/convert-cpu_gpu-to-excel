@@ -1,11 +1,11 @@
 # read file
-file = open('output_cpu.log', 'r')
+file = open('./emagevision/output_cpu.log', 'r')
 lines = file.read().splitlines()
 file.close()
 
 # write to excel
 import xlsxwriter
-workbook = xlsxwriter.Workbook('cpu_emagevision.xlsx')
+workbook = xlsxwriter.Workbook('./emagevision/cpu_emagevision.xlsx')
 worksheet = workbook.add_worksheet()
 row = 0
 col = 0

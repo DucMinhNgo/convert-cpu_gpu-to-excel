@@ -17,12 +17,17 @@ _count = 0
 print (len(lines))
 _len_lines = len(lines)
 _arr_hour = [0, 6, 12, 18]
+_arr_mouth = ['Aug', 'Sep']
 while (_count < _len_lines):
     # if _count == 0:
     # print (lines[_count])
+
     date_line = lines[_count]
+    date_line = " ".join(date_line.split())
+    print ('date_line: ')
+    print (date_line)
     # print (date_line)
-    if date_line.split(' ')[1] == 'Aug':
+    if date_line.split(' ')[1] in _arr_mouth:
         # print (lines[_count])
         # print (date_line.split(' ')[1])
         # print ('---')

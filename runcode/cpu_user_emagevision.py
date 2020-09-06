@@ -28,6 +28,8 @@ while (_count < _len_lines):
     # print (lines[_count])
     if lines[_count] == 'MEMORY':
         print (lines[_count - 1])
+        # remove duplicated space
+        lines[_count - 1] = " ".join(lines[_count - 1].split())
         _date = lines[_count - 1].split(' ')
         print (_date[1] + "_" + _date[2] + "_" + str(int(_date[3].split(":")[0])))
         _check_true_time = int(_date[3].split(":")[0]) in [6, 12, 18, 0] and int(_date[3].split(":")[1]) == 0

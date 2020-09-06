@@ -1,0 +1,4549 @@
+Tue Aug 18 10:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+50.9 klein1
+42.8 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+1983.7 klein1
+678.5 mateo
+0 message+
+0.5 neo4j
+3.4 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.6 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 11:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+49.8 klein1
+39.9 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 sshd
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+1927.6 klein1
+871.3 mateo
+0 message+
+0.5 neo4j
+3.1 root
+0 rtkit
+0.1 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+6.6 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 11:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+51.2 klein1
+39.9 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+1505.7 klein1
+1194.6 mateo
+0 message+
+0.5 neo4j
+3.5 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.6 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 12:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+49.8 klein1
+39.9 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+1075.5 klein1
+1196.9 mateo
+0 message+
+0.5 neo4j
+3.4 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.6 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 12:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+50.8 klein1
+40.4 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+890.2 klein1
+1022 mateo
+0 message+
+0.5 neo4j
+3.4 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.6 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 13:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+51.3 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+789.2 klein1
+132.4 mateo
+0 message+
+0.5 neo4j
+19.6 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+40.2 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 13:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+51.5 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+724.1 klein1
+93.9 mateo
+0 message+
+0.5 neo4j
+16.8 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+42.8 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 14:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+50.7 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+680.4 klein1
+86.4 mateo
+0 message+
+0.5 neo4j
+14.2 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+32.5 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 14:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+50.4 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+1 dustin
+0 jay
+646.5 klein1
+81.5 mateo
+0 message+
+0.5 neo4j
+30.7 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+18.1 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 15:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+49.2 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+655.4 klein1
+76.7 mateo
+0 message+
+0.5 neo4j
+27.5 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.8 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 15:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+49 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+494.8 klein1
+82.8 mateo
+0 message+
+0.5 neo4j
+27.8 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.6 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 16:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+51 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0 thinh
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+439.5 klein1
+74 mateo
+0 message+
+0.5 neo4j
+6.6 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.3 thinh
+0.2 turing
+11.4 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 16:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+50.9 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0 thinh
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+460.2 klein1
+105.3 mateo
+0 message+
+0.5 neo4j
+13 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0 thinh
+0.2 turing
+6.7 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 17:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+50.8 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 sshd
+0 syslog
+0 systemd+
+0 thinh
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+460.8 klein1
+68.3 mateo
+0 message+
+0.5 neo4j
+34.5 root
+0 rtkit
+0.1 scott
+0 sshd
+0 syslog
+0 systemd+
+0 thinh
+0.2 turing
+6.9 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 17:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+50.9 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0 thinh
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+443 klein1
+64.9 mateo
+0 message+
+0.5 neo4j
+19.1 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0 thinh
+0.2 turing
+7.4 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 18:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.8 cindy
+0 daemon
+0 dustin
+0 jay
+51.5 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+458.4 klein1
+73.8 mateo
+0 message+
+0.5 neo4j
+38.9 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.7 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 18:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+51.6 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+445 klein1
+67.6 mateo
+0 message+
+0.5 neo4j
+20.3 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+7 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 19:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+50.6 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+430.2 klein1
+64.5 mateo
+0 message+
+0.5 neo4j
+30.4 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+7.9 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 19:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+49.9 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+420.8 klein1
+62.1 mateo
+0 message+
+0.5 neo4j
+39.3 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+41.9 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 20:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+50.9 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+442.7 klein1
+84.8 mateo
+0 message+
+0.5 neo4j
+29.4 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+7.1 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 20:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+50.1 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+427.1 klein1
+65 mateo
+0 message+
+0.5 neo4j
+30.6 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+9.4 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 21:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+51.5 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.7 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+423.5 klein1
+61.5 mateo
+0 message+
+0.5 neo4j
+37.3 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+39.3 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 21:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+50.2 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+423.1 klein1
+59.5 mateo
+0 message+
+0.5 neo4j
+36.4 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+43.7 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 22:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+50 klein1
+39.9 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+1 dustin
+0 jay
+423.8 klein1
+356 mateo
+0 message+
+0.5 neo4j
+20.5 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+35.4 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 22:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+51.9 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+423.8 klein1
+65.4 mateo
+0 message+
+0.5 neo4j
+25.2 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+36.8 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 23:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+52 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+424.3 klein1
+59.5 mateo
+0 message+
+0.5 neo4j
+18.8 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+40.6 wayne
+0 www-data
+0 xrdp
+Tue Aug 18 23:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+52.1 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+423.6 klein1
+57.4 mateo
+0 message+
+0.5 neo4j
+34.2 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+42.2 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 00:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+51.7 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+1 dustin
+0 jay
+424.2 klein1
+55.2 mateo
+0 message+
+0.5 neo4j
+15.2 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+31.3 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 00:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+51.2 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+424.3 klein1
+78 mateo
+0 message+
+0.5 neo4j
+23.7 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+38 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 01:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+52.6 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+424.7 klein1
+59 mateo
+0 message+
+0.5 neo4j
+110.7 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+41.9 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 01:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+4.9 cindy
+0 daemon
+0 dustin
+0 jay
+52.2 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+425 klein1
+55.7 mateo
+0 message+
+0.5 neo4j
+20.4 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+38.9 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 02:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 jay
+52.3 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 sshd
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.9 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+425.3 klein1
+54.2 mateo
+0 message+
+0.5 neo4j
+29.7 root
+0 rtkit
+0.1 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+27.3 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 02:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 jay
+52.5 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+1 dustin
+0 jay
+436.9 klein1
+51.6 mateo
+0 message+
+0.5 neo4j
+26.6 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+10.1 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 03:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 jay
+52.4 klein1
+43.3 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+459.2 klein1
+62.9 mateo
+0 message+
+0.5 neo4j
+4.5 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.6 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 03:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 jay
+52.2 klein1
+0 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+517.4 klein1
+0.4 mateo
+0 message+
+0.5 neo4j
+4 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+6.8 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 04:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0.3 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+43.8 klein1
+2.3 mateo
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+6.6 scott
+0 sshd
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+40.2 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+401 klein1
+1.7 mateo
+0 message+
+0.5 neo4j
+7.7 root
+0 rtkit
+0.1 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+7.1 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 04:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+43.3 klein1
+14.6 mateo
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+6.6 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0.1 dustin
+0 duy
+0 jay
+241.1 klein1
+6.6 mateo
+0 message+
+0.5 neo4j
+5 root
+0 rtkit
+0.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+39.1 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 05:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+45.4 klein1
+0 message+
+0 Neil
+2 neo4j
+0.1 root
+0 rtkit
+0 scott
+0 shinre
+0 sshd
+0 syslog
+0 systemd+
+0 thinh
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+253.7 klein1
+0 message+
+0 Neil
+0.5 neo4j
+0.9 root
+0 rtkit
+0 scott
+0.3 shinre
+0 sshd
+0 syslog
+0 systemd+
+0 thinh
+0.2 turing
+91.8 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 05:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+43.3 klein1
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0 scott
+0 shinre
+0 sshd
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0.1 duy
+0 jay
+282.5 klein1
+0 message+
+0.5 neo4j
+0.8 root
+0 rtkit
+0 scott
+0.3 shinre
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+56.1 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 06:00:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+43.3 klein1
+44.1 mateo
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+281.5 klein1
+956.8 mateo
+0 message+
+0.5 neo4j
+0.6 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+45.7 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 06:30:01 UTC 2020
+MEMORY
+””
+0 1010
+0 andy
+0 avahi
+5 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+43.4 klein1
+42.9 mateo
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+1 1010
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 duy
+0 jay
+272.9 klein1
+971.6 mateo
+0 message+
+0.5 neo4j
+2.1 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+59.7 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.1 cindy
+0 daemon
+0 dustin
+0 jay
+0.9 klein
+43.3 mateo
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+1.4 scott
+0 sshd
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+22 klein
+1058.4 mateo
+0 message+
+0.5 neo4j
+1.2 root
+0 rtkit
+2.8 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+92.3 wayne
+0 www-data
+0 xrdp
+Wed Aug 19 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.2 cindy
+0 daemon
+0 dustin
+0 jay
+0.6 klein
+48.9 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.3 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+4.9 klein
+1332.5 mateo
+0 message+
+0.5 neo4j
+0.5 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+134.5 wayne
+0 www-data
+0 xrdp
+Thu Aug 20 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.2 cindy
+0 daemon
+0 dustin
+0 jay
+0.9 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.3 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+50.5 klein
+0 message+
+0.5 neo4j
+0.4 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+59.1 wayne
+0 www-data
+0 xrdp
+Thu Aug 20 06:00:01 UTC 2020
+MEMORY
+””
+0.3 andy
+0 avahi
+5.3 cindy
+0 daemon
+0 dustin
+0 jay
+3.7 klein
+53.9 mateo
+0 message+
+0 Neil
+2 neo4j
+0 root
+0 rtkit
+0.9 scott
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0.7 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+117.8 klein
+1041.3 mateo
+0 message+
+0 Neil
+0.5 neo4j
+1.3 root
+0 rtkit
+6.1 scott
+0 syslog
+0 systemd+
+0.2 turing
+91.4 wayne
+0 www-data
+0 xrdp
+Thu Aug 20 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.4 cindy
+0 daemon
+0 dustin
+0 jay
+5.9 klein
+49.4 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.9 scott
+0 sshd
+0 syslog
+0 systemd+
+0.3 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+1580.2 klein
+1034.9 mateo
+0 message+
+0.5 neo4j
+0.5 root
+0 rtkit
+1.8 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+109.4 wayne
+0 www-data
+0 xrdp
+Thu Aug 20 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.5 cindy
+0 daemon
+0 dustin
+0 jay
+5.6 klein
+49.4 mateo
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+313.2 klein
+159.8 mateo
+0 message+
+0.5 neo4j
+7.1 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+76.9 wayne
+0 www-data
+0 xrdp
+Fri Aug 21 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.6 cindy
+0 daemon
+0 dustin
+0 jay
+6 klein
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0.2 scott
+0 sshd
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+0 dustin
+0 jay
+217.4 klein
+0 message+
+0.5 neo4j
+1 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+104.5 wayne
+0 www-data
+0 xrdp
+Fri Aug 21 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.6 cindy
+0 daemon
+118.6 Darius
+0 dustin
+0 duy
+0 jay
+6.4 klein
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+451.1 Darius
+3.4 dustin
+0 duy
+0 jay
+242.4 klein
+0 message+
+0.5 neo4j
+1.1 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+53.7 wayne
+0 www-data
+0 xrdp
+Fri Aug 21 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.7 cindy
+0 daemon
+0 dao
+118.6 Darius
+0 dustin
+0 jay
+9.6 klein
+0 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+3.3 dao
+434.4 Darius
+0.7 dustin
+0 jay
+339.9 klein
+0 mateo
+0 message+
+0.5 neo4j
+0.5 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+59.1 wayne
+0 www-data
+0 xrdp
+Fri Aug 21 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.8 cindy
+0 daemon
+0 dao
+118.9 Darius
+0 dustin
+0 jay
+12.9 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 sshd
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+6.6 dao
+402.2 Darius
+0.4 dustin
+0 jay
+823 klein
+0 message+
+0.5 neo4j
+1.2 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+77.6 wayne
+0 www-data
+0 xrdp
+Sat Aug 22 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+5.9 cindy
+0 daemon
+0 dao
+119.5 Darius
+0 dustin
+0 jay
+13.3 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+3.2 dao
+401.6 Darius
+0.3 dustin
+0 jay
+1317.9 klein
+0 message+
+0.5 neo4j
+0.3 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+53.5 wayne
+0 www-data
+0 xrdp
+Sat Aug 22 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6 cindy
+0 daemon
+0 dao
+119.1 Darius
+0 dustin
+0 jay
+13.4 klein
+0 mateo
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+35 dao
+554.9 Darius
+85.2 dustin
+0 jay
+1081.8 klein
+0 mateo
+0 message+
+0.5 neo4j
+0.3 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+37.2 wayne
+0 www-data
+0 xrdp
+Sat Aug 22 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6 cindy
+0 daemon
+0 dao
+119.7 Darius
+0 dustin
+0 jay
+13.6 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+30.2 dao
+398.5 Darius
+0.2 dustin
+0 jay
+1016.5 klein
+0 message+
+0.5 neo4j
+0.2 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+41.9 wayne
+0 www-data
+0 xrdp
+Sat Aug 22 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.1 cindy
+0 daemon
+0 dao
+119.7 Darius
+0 dustin
+0 jay
+14.3 klein
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+12 dao
+379.2 Darius
+0.1 dustin
+0 jay
+1566.8 klein
+0 message+
+0.5 neo4j
+0.3 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+110.2 wayne
+0 www-data
+0 xrdp
+Sun Aug 23 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.2 cindy
+0 daemon
+0 dao
+119.9 Darius
+0 dustin
+0 jay
+14.1 klein
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0.2 scott
+0 sshd
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+29.2 dao
+374 Darius
+0.1 dustin
+0 jay
+1577.9 klein
+0 message+
+0.5 neo4j
+0.3 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+38.9 wayne
+0 www-data
+0 xrdp
+Sun Aug 23 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.3 cindy
+0 daemon
+0 dao
+119.9 Darius
+0 dustin
+0 jay
+14.2 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 sshd
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+54.2 dao
+373.1 Darius
+0.1 dustin
+0 jay
+1512.8 klein
+0 message+
+0.5 neo4j
+0.3 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+53.6 wayne
+0 www-data
+0 xrdp
+Sun Aug 23 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.3 cindy
+0 daemon
+0 dao
+119.9 Darius
+0 dustin
+0 jay
+14.3 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+9.5 dao
+368.7 Darius
+0.1 dustin
+0 jay
+1497.3 klein
+0 message+
+0.5 neo4j
+0.4 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+92 wayne
+0 www-data
+0 xrdp
+Sun Aug 23 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.4 cindy
+0 daemon
+0 dao
+119.9 Darius
+0 dustin
+0 jay
+14.7 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 sshd
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+9.5 dao
+371.6 Darius
+0.1 dustin
+0 jay
+1478.7 klein
+0 message+
+0.5 neo4j
+0.4 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+91.4 wayne
+0 www-data
+0 xrdp
+Mon Aug 24 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.5 cindy
+0 daemon
+0 dao
+119.9 Darius
+0 dustin
+0 jay
+14.9 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+52.7 dao
+449.8 Darius
+0.1 dustin
+0 jay
+1466.6 klein
+0 message+
+0.5 neo4j
+6.8 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+48.5 wayne
+0 www-data
+0 xrdp
+Mon Aug 24 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.6 cindy
+0 daemon
+0 dao
+119.9 Darius
+0 dustin
+0 duy
+0 jay
+15 klein
+0 message+
+0 Neil
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0 thinh
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+6.6 dao
+412 Darius
+0.1 dustin
+0 duy
+0 jay
+1472.1 klein
+0 message+
+0 Neil
+0.5 neo4j
+0.4 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.3 thinh
+0.2 turing
+76.2 wayne
+0 www-data
+0 xrdp
+Mon Aug 24 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.7 cindy
+0 daemon
+0 dao
+0 dustin
+0 duy
+0 jay
+15.3 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 sshd
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+47.1 dao
+0 dustin
+0 duy
+0 jay
+1461.6 klein
+0 message+
+0.5 neo4j
+0.3 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+41.5 wayne
+0 www-data
+0 xrdp
+Mon Aug 24 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.7 cindy
+0 daemon
+0 dao
+0 dustin
+0 duy
+0 jay
+21.9 klein
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0.2 scott
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+3.5 dao
+7 dustin
+0 duy
+0 jay
+1772.6 klein
+0 message+
+0.5 neo4j
+1 root
+0 rtkit
+0 scott
+0 syslog
+0 systemd+
+0.2 turing
+59.6 wayne
+0 www-data
+0 xrdp
+Tue Aug 25 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.8 cindy
+0 daemon
+0 dao
+0 dustin
+0 duy
+0 jay
+22.6 klein
+0 message+
+2 neo4j
+0.1 root
+0 rtkit
+0.2 scott
+0 sshd
+0 syslog
+0 systemd+
+0.4 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+53 dao
+10 dustin
+0 duy
+0 jay
+1820.2 klein
+0 message+
+0.5 neo4j
+0.8 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+48.9 wayne
+0 www-data
+0 xrdp
+Tue Aug 25 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+6.9 cindy
+0 daemon
+0 dao
+0 dustin
+0 duy
+0 jay
+22.5 klein
+0 message+
+2 neo4j
+0 root
+0 rtkit
+0.2 scott
+0 sshd
+0 syslog
+0 systemd+
+0.5 turing
+0 wayne
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0.4 cindy
+0 daemon
+6 dao
+0 dustin
+0 duy
+0 jay
+1818.5 klein
+0 message+
+0.5 neo4j
+1.2 root
+0 rtkit
+0 scott
+0 sshd
+0 syslog
+0 systemd+
+0.2 turing
+67.5 wayne
+0 www-data
+0 xrdp
+Tue Aug 25 12:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+16.3 klein
+0 message+
+0 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+2117 klein
+0 message+
+1.3 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Tue Aug 25 18:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+19.5 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+1865.4 klein
+0 message+
+1.6 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Wed Aug 26 00:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+19.9 klein
+0 message+
+0 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+9 dustin
+0 duy
+2031.9 klein
+0 message+
+1 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Wed Aug 26 06:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+17.7 klein
+0 message+
+0 root
+0 scott
+0 syslog
+0 systemd+
+0 thinh
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+7 dustin
+0 duy
+1970.1 klein
+0 message+
+0.7 root
+0 scott
+0 syslog
+0 systemd+
+0 thinh
+0 www-data
+0 xrdp
+Wed Aug 26 12:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+16 klein
+0 message+
+0.1 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+612.5 klein
+0 message+
+1.2 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Wed Aug 26 18:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+16.2 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+728.3 klein
+0 message+
+1.5 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Thu Aug 27 00:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+16.2 klein
+0 message+
+0 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+830.9 klein
+0 message+
+2 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Thu Aug 27 06:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0 jay
+15.8 klein
+0 message+
+0 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0 jay
+847.8 klein
+0 message+
+1.6 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Thu Aug 27 12:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+14.2 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+724.1 klein
+0 message+
+1.1 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Thu Aug 27 18:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+5.6 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+329.1 klein
+0 message+
+0.9 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Fri Aug 28 00:00:01 UTC 2020
+MEMORY
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+14.6 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 avahi
+0 daemon
+0 dustin
+0 duy
+1011.2 klein
+0 message+
+2.2 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Fri Aug 28 06:00:01 UTC 2020
+MEMORY
+””
+8.7 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+14 klein
+0 message+
+0 root
+0 sshd
+0 syslog
+0 systemd+
+0 thinh
+0 www-data
+0 xrdp
+USED
+””
+221.3 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+670.2 klein
+0 message+
+1 root
+0 sshd
+0 syslog
+0 systemd+
+0 thinh
+0 www-data
+0 xrdp
+Fri Aug 28 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+19.2 klein
+0 message+
+0 Neil
+0.1 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+979.6 klein
+0 message+
+0 Neil
+1.4 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Fri Aug 28 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+10.9 klein
+0 message+
+0.1 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+734.6 klein
+0 message+
+2 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sat Aug 29 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+5.7 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+289 klein
+0 message+
+1.7 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sat Aug 29 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+6 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+6 dustin
+0 duy
+125 klein
+0 message+
+0.4 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sat Aug 29 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+6.7 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+47 dustin
+0 duy
+18.3 klein
+0 message+
+0.6 root
+0 syslog
+0 systemd+
+9.5 viralint
+0 www-data
+0 xrdp
+Sat Aug 29 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+7.9 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+8 dustin
+0 duy
+114.3 klein
+0 message+
+0.4 root
+0 syslog
+0 systemd+
+0 viralint
+0 www-data
+0 xrdp
+Sun Aug 30 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+9 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+109.9 klein
+0 message+
+0.4 root
+0 syslog
+0 systemd+
+0 viralint
+0 www-data
+0 xrdp
+Sun Aug 30 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+10.2 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0.2 viralint
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+109.6 klein
+0 message+
+0.5 root
+0 syslog
+0 systemd+
+1.3 viralint
+0 www-data
+0 xrdp
+Sun Aug 30 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+110.6 antonino
+0 avahi
+0 daemon
+0 dustin
+0 duy
+11.4 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+376.4 antonino
+0 avahi
+0 daemon
+8 dustin
+0 duy
+110.8 klein
+0 message+
+0.4 root
+0 syslog
+0 systemd+
+0 viralint
+0 www-data
+0 xrdp
+Sun Aug 30 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+12.5 klein
+0 message+
+0 root
+0 sshd
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+139.4 klein
+0 message+
+0.7 root
+0 sshd
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+Mon Aug 31 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+13.7 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+107.7 klein
+0 message+
+1.4 root
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+Mon Aug 31 06:00:01 UTC 2020
+MEMORY
+””
+0.4 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+18.4 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 tyler
+0 vimusic
+0.2 viralint
+0 www-data
+0 xrdp
+USED
+””
+61.4 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+318.9 klein
+0 message+
+0.6 root
+0 syslog
+0 systemd+
+0 tyler
+0 vimusic
+1.1 viralint
+0 www-data
+0 xrdp
+Mon Aug 31 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+19 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+54.8 andy
+0 avahi
+0 daemon
+11 dustin
+0 duy
+1144.8 klein
+0 message+
+1.2 root
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+Mon Aug 31 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+18.5 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+69.7 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+300.7 klein
+0 message+
+0.5 root
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+Tue Sep  1 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 avahi
+0 daemon
+0 dustin
+0 duy
+19.8 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+75.9 andy
+0 avahi
+0 daemon
+7 dustin
+0 duy
+188.8 klein
+0 message+
+0.5 root
+0 syslog
+0 systemd+
+0 tyler
+0 viralint
+0 www-data
+0 xrdp
+Tue Sep  1 06:00:02 UTC 2020
+MEMORY
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+7.7 duy
+6 jhyn
+3.6 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0.4 andy
+0 ani
+0 avahi
+0 daemon
+8 dustin
+156 duy
+374 jhyn
+549.4 klein
+0 message+
+2.2 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Tue Sep  1 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+8.4 duy
+3.5 jay
+0 jhyn
+6.7 klein
+0 message+
+0 Neil
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+1 dustin
+156 duy
+13.7 jay
+0 jhyn
+690.3 klein
+0 message+
+0 Neil
+1.9 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Tue Sep  1 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0.5 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.5 jay
+0 jhyn
+4.3 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+1.7 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+1.8 jay
+0 jhyn
+302.6 klein
+0 message+
+1.1 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Wed Sep  2 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.5 jay
+0 jhyn
+4.4 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+1.1 jay
+0 jhyn
+163.5 klein
+0 message+
+0.6 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Wed Sep  2 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+7.2 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.5 jay
+0 jhyn
+5.4 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+148.8 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+203 klein
+0 message+
+0.9 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Wed Sep  2 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.5 jay
+0 jhyn
+5.7 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+1.3 jay
+0 jhyn
+50.3 klein
+0 message+
+0.3 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Wed Sep  2 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+5.9 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.5 jay
+0 jhyn
+6.8 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+142 ani
+0 avahi
+0 daemon
+1 dustin
+0 duy
+0.9 jay
+0 jhyn
+11.4 klein
+0 message+
+0.3 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Thu Sep  3 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.5 jay
+0 jhyn
+7.7 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.8 jay
+0 jhyn
+10.5 klein
+0 message+
+0.2 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Thu Sep  3 06:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0.5 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.5 jay
+0 jhyn
+9 klein
+0 message+
+0 Neil
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+21.4 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.7 jay
+0 jhyn
+11.7 klein
+0 message+
+0 Neil
+0.2 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Thu Sep  3 12:00:01 UTC 2020
+MEMORY
+””
+0 andy
+5.6 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+22.5 klein
+0 message+
+0 root
+0.1 scott
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+143 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.6 jay
+0 jhyn
+512.3 klein
+0 message+
+12.9 root
+0.2 scott
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Thu Sep  3 18:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+13.4 klein
+0 message+
+0.1 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.6 jay
+0 jhyn
+404.5 klein
+0 message+
+5.6 root
+0 sshd
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Fri Sep  4 00:00:01 UTC 2020
+MEMORY
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+14.5 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+0 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.5 jay
+0 jhyn
+408.9 klein
+0 message+
+4.5 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Fri Sep  4 06:00:01 UTC 2020
+MEMORY
+””
+2.5 andy
+0.6 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+17 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 thinh
+0 www-data
+0 xrdp
+USED
+””
+90 andy
+1.8 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.5 jay
+0 jhyn
+2848.1 klein
+0 message+
+0.3 root
+0 syslog
+0 systemd+
+0 thinh
+0 www-data
+0 xrdp
+Fri Sep  4 12:00:01 UTC 2020
+MEMORY
+””
+2.7 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+20.5 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+88.4 andy
+0 ani
+0 avahi
+0 daemon
+16 dustin
+0 duy
+0.5 jay
+0 jhyn
+3052.7 klein
+0 message+
+0.5 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Fri Sep  4 18:00:01 UTC 2020
+MEMORY
+””
+3.1 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+22.1 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+90.8 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.4 jay
+0 jhyn
+3058.2 klein
+0 message+
+0.4 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sat Sep  5 00:00:01 UTC 2020
+MEMORY
+””
+3.3 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+22.8 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+91.9 andy
+0 ani
+0 avahi
+0 daemon
+10 dustin
+0 duy
+0.4 jay
+0 jhyn
+2960.9 klein
+0 message+
+0.2 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sat Sep  5 06:00:01 UTC 2020
+MEMORY
+””
+3.4 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+24.5 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+92.9 andy
+0 ani
+0 avahi
+0 daemon
+15 dustin
+0 duy
+0.4 jay
+0 jhyn
+2988.7 klein
+0 message+
+0.2 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sat Sep  5 12:00:01 UTC 2020
+MEMORY
+””
+3.6 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+26.2 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+93.6 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.4 jay
+0 jhyn
+1307.2 klein
+0 message+
+0.6 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sat Sep  5 18:00:01 UTC 2020
+MEMORY
+””
+3.7 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+29.2 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+94.7 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.4 jay
+0 jhyn
+2476 klein
+0 message+
+0.2 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sun Sep  6 00:00:01 UTC 2020
+MEMORY
+””
+3.8 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+30.8 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+USED
+””
+95 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.3 jay
+0 jhyn
+2980.8 klein
+0 message+
+0.1 root
+0 syslog
+0 systemd+
+0 www-data
+0 xrdp
+Sun Sep  6 06:00:01 UTC 2020
+MEMORY
+””
+3.8 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+3.4 jay
+0 jhyn
+32.5 klein
+0 message+
+0 root
+0 syslog
+0 systemd+
+0 viralint
+0 www-data
+0 xrdp
+USED
+””
+95.2 andy
+0 ani
+0 avahi
+0 daemon
+0 dustin
+0 duy
+0.3 jay
+0 jhyn
+3033 klein
+0 message+
+0.2 root
+0 syslog
+0 systemd+
+2.8 viralint
+0 www-data
+0 xrdp

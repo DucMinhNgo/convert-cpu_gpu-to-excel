@@ -1,0 +1,1658 @@
+Mon Aug 24 06:59:06 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.9 pravin
+0 root
+2.9 shreevi+
+0 syslog
+0 systemd+
+0 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+984 pravin
+3.1 root
+660 shreevi+
+0 syslog
+0 systemd+
+0 vignesh
+0 xrdp
+Mon Aug 24 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.9 pravin
+0.1 root
+2.8 shreevi+
+0 syslog
+0 systemd+
+0 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+959 pravin
+3.1 root
+727 shreevi+
+0 syslog
+0 systemd+
+0 vignesh
+0 xrdp
+Mon Aug 24 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.1 pravin
+0 root
+2.8 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+952 pravin
+2.9 root
+798 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Tue Aug 25 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+2.9 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+955 pravin
+2.9 root
+858 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Tue Aug 25 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0.1 root
+2.9 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+25 dustin
+0 message+
+0 nobody
+0 nvidia-+
+957 pravin
+2.8 root
+908 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Tue Aug 25 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+964 pravin
+2.9 root
+952 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Tue Aug 25 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+967 pravin
+2.8 root
+991 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Wed Aug 26 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.6 pravin
+0 root
+3.3 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+26 dustin
+0 message+
+0 nobody
+0 nvidia-+
+963 pravin
+2.8 root
+1027 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Wed Aug 26 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.2 pravin
+0 root
+3.3 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1002 pravin
+3 root
+1058 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Wed Aug 26 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+3 shreevi+
+0 syslog
+0 systemd+
+0 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1021 pravin
+2.7 root
+1086 shreevi+
+0 syslog
+0 systemd+
+0 vignesh
+0 xrdp
+Wed Aug 26 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+3 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1017 pravin
+2.7 root
+1112 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Thu Aug 27 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+2.9 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1003 pravin
+2.7 root
+1136 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Thu Aug 27 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+2.9 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+23 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1003 pravin
+2.7 root
+1158 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Thu Aug 27 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+2.9 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1005 pravin
+2.9 root
+1178 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Thu Aug 27 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+2.9 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1005 pravin
+3.2 root
+1191 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Fri Aug 28 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+3 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1009 pravin
+3 root
+1180 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Fri Aug 28 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+2.9 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+22 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1008 pravin
+2.9 root
+1170 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Fri Aug 28 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+3.1 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+21 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1009 pravin
+2.7 root
+1159 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Fri Aug 28 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.9 pravin
+0.1 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1014 pravin
+3 root
+1146 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sat Aug 29 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1015 pravin
+2.9 root
+1131 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sat Aug 29 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.8 pravin
+0 root
+3.3 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1008 pravin
+2.7 root
+1120 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Sat Aug 29 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.7 pravin
+0.1 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1008 pravin
+2.9 root
+1108 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sat Aug 29 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.7 pravin
+0 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1007 pravin
+2.8 root
+1124 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sun Aug 30 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.7 pravin
+0 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1006 pravin
+2.7 root
+1140 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sun Aug 30 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.6 pravin
+0 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1004 pravin
+2.8 root
+1155 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sun Aug 30 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.6 pravin
+0.1 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1003 pravin
+2.7 root
+1169 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sun Aug 30 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.6 pravin
+0 root
+3.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1004 pravin
+2.8 root
+1181 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Mon Aug 31 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.5 pravin
+0 root
+3.2 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1003 pravin
+6.7 root
+1194 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Mon Aug 31 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.6 pravin
+0 root
+3.2 shreevi+
+0 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1002 pravin
+2.7 root
+1205 shreevi+
+0 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Mon Aug 31 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.6 pravin
+0 root
+2.9 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1001 pravin
+2.9 root
+1217 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Mon Aug 31 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.5 pravin
+0 root
+2.9 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+25 dustin
+0 message+
+0 nobody
+0 nvidia-+
+1000 pravin
+2.7 root
+1227 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Tue Sep  1 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.6 pravin
+0 root
+2.9 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+999 pravin
+2.7 root
+1237 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Tue Sep  1 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.5 pravin
+0 root
+2.9 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+997 pravin
+2.7 root
+1247 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Tue Sep  1 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+2.5 pravin
+0 root
+2.9 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+996 pravin
+2.5 root
+1257 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Tue Sep  1 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.4 pravin
+0 root
+2.9 shreevi+
+0 syslog
+0 systemd+
+0 thinh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+995 pravin
+2.5 root
+1266 shreevi+
+0 syslog
+0 systemd+
+0.1 thinh
+0 xrdp
+Wed Sep  2 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+2.9 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+995 pravin
+2.8 root
+1272 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Wed Sep  2 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.4 pravin
+0.1 root
+3 shreevi+
+0 syslog
+0 systemd+
+0 thinh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+991 pravin
+2.5 root
+1263 shreevi+
+0 syslog
+0 systemd+
+0.1 thinh
+0 xrdp
+Wed Sep  2 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+20 dustin
+0 message+
+0 nobody
+0 nvidia-+
+990 pravin
+2.5 root
+1250 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Wed Sep  2 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+985 pravin
+2.5 root
+1238 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Thu Sep  3 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.2 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+985 pravin
+2.5 root
+1225 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Thu Sep  3 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 thinh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+24 dustin
+0 message+
+0 nobody
+0 nvidia-+
+985 pravin
+3 root
+1214 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 thinh
+0 xrdp
+Thu Sep  3 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.3 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+21 dustin
+0 message+
+0 nobody
+0 nvidia-+
+985 pravin
+2.7 root
+1202 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Thu Sep  3 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.3 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+983 pravin
+3.1 root
+1191 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Fri Sep  4 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0.1 root
+3.1 shreevi+
+0 
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+978 pravin
+2.5 root
+1180 shreevi+
+0 
+0 syslog
+0 systemd+
+0 xrdp
+Fri Sep  4 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+975 pravin
+2.5 root
+1190 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Fri Sep  4 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+973 pravin
+2.5 root
+1198 shreevi+
+0.7 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Fri Sep  4 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+972 pravin
+2.5 root
+1207 shreevi+
+1.2 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Sat Sep  5 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+969 pravin
+2.5 root
+1216 shreevi+
+0 sshd
+0.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Sat Sep  5 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+966 pravin
+2.7 root
+1224 shreevi+
+0 sshd
+0.2 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Sat Sep  5 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+27 dustin
+0 message+
+0 nobody
+0 nvidia-+
+965 pravin
+2.5 root
+1232 shreevi+
+0 sshd
+0.1 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Sat Sep  5 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+963 pravin
+2.5 root
+1239 shreevi+
+0.1 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Sun Sep  6 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.4 pravin
+0 root
+3.2 shreevi+
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+29 dustin
+0 message+
+0 nobody
+0 nvidia-+
+958 pravin
+2.5 root
+1236 shreevi+
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Sun Sep  6 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0.1 root
+3.1 shreevi+
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+954 pravin
+12.7 root
+1233 shreevi+
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Sun Sep  6 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+3.3 pravin
+0 root
+3.1 shreevi+
+0 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 nvidia-+
+952 pravin
+3.1 root
+1240 shreevi+
+0 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp

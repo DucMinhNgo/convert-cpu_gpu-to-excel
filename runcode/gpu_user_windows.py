@@ -1,4 +1,4 @@
-file = open('../windows/output_show_gpu_usage.log', 'r')
+file = open('../windows/output_show_gpu_usage.log', 'r', encoding='ISO-8859-1')
 lines = file.read().splitlines()
 file.close()
 # write to excel
@@ -25,10 +25,12 @@ while (_count < _len_lines):
     print (_date.split('/')[1])
     _count += 3
     _time = int(lines[_count].split(':')[0])
+    _minute = int(lines[_count].split(':')[1].split(' ')[0])
     print (_time)
     # _minute = lines[_count].split(':')[1]
     # _real_minite = int(_minute.split(' ')[0])
-    worksheet.write(row, 0, _date.split('/')[1] + '_' + str(_time))
+    if _time in _arr_hour and _minute == 14:
+        worksheet.write(row, 0, _date.split('/')[1] + '_' + str(_time))
     # print (lines[_count])
     _count += 5
     # print (lines[_count])
@@ -38,6 +40,11 @@ while (_count < _len_lines):
     print ('---')
     while (col < _len_of_gpu):
         # print (lines[_count + _sub_count].split('|')[3].strip())
+        print ('---')
+        print ('lines: ')
+        print (_count + _sub_count)
+        print (lines[_count + _sub_count])
+        print ('---')
         _result = lines[_count + _sub_count].split('|')[3].strip()
         _get_percent = int(lines[_count + _sub_count].split('|')[1].strip().split(',')[1].strip().split(' ')[0])
         print (_get_percent)
@@ -49,7 +56,9 @@ while (_count < _len_lines):
         # _get_percent = _result = lines[_count + _sub_count].split('|')[1].strip()
         # print (_get_percent)
         for _element_name in _result:
-            if _element_name == "NT" or _element_name == "Window":
+            if _element_name == "NT" or _element_name == "Window" or _element_name == "":
+                # if _time in _arr_hour and _minute == 14 and _element_name == "":
+                    # worksheet.write(row, col + 1, "0%")
                 pass
             else:
                 # print ('---')
@@ -80,11 +89,17 @@ while (_count < _len_lines):
         _str_name_arr = ""
         for _element in _name_arr:
             _str_name_arr += _element + " "
-        worksheet.write(row, col + 1, _str_name_arr.strip())
+            # print (_element.split('(')[1].split('%')[0])
+        if _time in _arr_hour and _minute == 14:
+            print ('run: ')
+            print (_str_name_arr)
+            # print (_str_name_arr.strip().split('(')[0].split("%")[0])
+            worksheet.write(row, col + 1, _str_name_arr.strip())
         col += 1
         _sub_count += 1*2
-    row += 1
+    if _time in _arr_hour and _minute == 14:
+        row += 1
     print ('count: ', str(_count))
     _count += 17
-    row += 1
+
 workbook.close()

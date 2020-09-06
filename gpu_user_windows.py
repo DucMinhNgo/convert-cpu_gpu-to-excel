@@ -36,18 +36,41 @@ while (_count < _len_lines):
     while (col < _len_of_gpu):
         # print (lines[_count + _sub_count].split('|')[3].strip())
         _result = lines[_count + _sub_count].split('|')[3].strip()
+        _get_percent = int(lines[_count + _sub_count].split('|')[1].strip().split(',')[1].strip().split(' ')[0])
+        print (_get_percent)
         _result = _result.split(' ')
         print('---')
         _name_arr = []
+        _data_arr = []
+        _sum = 0
+        # _get_percent = _result = lines[_count + _sub_count].split('|')[1].strip()
+        # print (_get_percent)
         for _element_name in _result:
             if _element_name == "NT":
-                break
-            # print (_element_name.split('\\')[1])
-            split_name = _element_name.split('\\')[1]
-            split_name = split_name.split('(')[0]
-            if split_name not in _name_arr:
-                # split_name.split('(')[0]
-                _name_arr.append(split_name)
+                pass
+            else:
+                # print (_element_name.split('\\')[1])
+                split_name = _element_name.split('\\')[1]
+                split_name = split_name.split('(')[0]
+                split_name = split_name.split('/')
+                _sum += int(split_name[1])
+                if split_name[0] not in _name_arr:
+                    # split_name.split('(')[0]
+                    _name_arr.append(split_name[0])
+                    _data_arr.append(int(split_name[1]))
+                else:
+                    _index_element = _name_arr.index(split_name[0])
+                    _data_arr[_index_element] += int(split_name[1])
+            # print (int(split_name.split('/')[1]))
+        # print (_name_arr)
+        print (_data_arr)
+        print (_sum)
+        _len_data_arr = len(_data_arr)
+        _count_data = 0
+        while (_count_data < _len_data_arr):
+            # print (str(round(((_data_arr[_count_data]/_sum *100)*_get_percent)/100, 2)) + "%")
+            _name_arr[_count_data] += "(" + str(round(((_data_arr[_count_data]/_sum *100)*_get_percent)/100, 2)) + "%)"
+            _count_data += 1
         print (_name_arr)
         _str_name_arr = ""
         for _element in _name_arr:

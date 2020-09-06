@@ -1,11 +1,11 @@
 # read file
-file = open('output_show_user_mem_usage.log', 'r')
+file = open('./emage/output_show_user_mem_usage.log', 'r')
 lines = file.read().splitlines()
 file.close()
 
 # write to excel
 import xlsxwriter
-workbook = xlsxwriter.Workbook('cpu_each_user_emage.xlsx')
+workbook = xlsxwriter.Workbook('./emage/cpu_each_user_emage.xlsx')
 worksheet = workbook.add_worksheet()
 row = 0
 col = 0

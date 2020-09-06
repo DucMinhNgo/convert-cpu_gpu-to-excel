@@ -1,0 +1,1950 @@
+C:\Users\dustin\Desktop\monitoring>date /T
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:48 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 15:48:16.164","8.334486"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 15:51:08.506","1.803285"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 16:21:08.451","9.996409"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 16:51:08.429","8.390450"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 17:21:08.461","22.345256"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 17:51:08.416","27.688721"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 18:21:08.400","26.762312"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 18:51:08.394","23.202840"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 19:21:08.456","2.573374"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 19:51:08.473","1.870816"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 20:21:08.453","27.106843"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 20:51:08.459","4.383526"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 21:21:08.425","32.790372"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 21:51:08.498","43.974568"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 22:21:08.397","35.425813"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 22:51:08.438","27.421234"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 23:21:08.413","30.078004"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Thu 09/03/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/03/2020 23:51:08.429","23.418920"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 00:21:08.491","0.827464"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 00:51:08.490","1.462205"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 01:21:08.491","4.090691"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 01:51:08.489","5.210096"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 02:21:08.490","4.230954"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 02:51:08.464","4.628008"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 03:21:08.481","1.714335"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 03:51:08.469","0.879106"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 04:21:08.497","4.094862"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 04:51:08.463","6.384740"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 05:21:08.462","4.875930"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 05:51:08.508","7.263543"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 06:21:08.469","1.656647"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 06:51:08.471","2.772843"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 07:21:08.487","2.724207"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 07:51:08.500","0.688090"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 08:21:08.485","1.021160"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 08:51:08.505","3.993099"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 09:21:08.459","4.090778"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 09:51:08.504","5.457237"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 10:21:08.467","10.330465"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 10:51:08.460","24.736797"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 11:21:08.502","11.646684"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 11:51:08.427","12.485834"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 12:21:08.439","16.244432"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 12:51:08.443","17.025063"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 13:21:08.467","29.590401"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 13:51:08.488","7.019185"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 14:21:08.509","7.409484"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 14:51:08.447","5.015551"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 15:21:08.477","8.385889"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 15:51:08.407","25.712914"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 16:21:08.467","15.986542"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 16:51:08.483","6.872818"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 17:21:08.425","25.007000"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 17:51:08.464","16.376350"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 18:21:08.455","17.415556"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 18:51:08.475","4.578854"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 19:21:08.456","6.039295"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 19:51:08.448","3.602508"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 20:21:08.483","3.505176"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 20:51:08.550","6.677622"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 21:21:08.484","4.579159"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 21:51:08.459","3.846657"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 22:21:08.483","3.309798"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 22:51:08.503","3.651473"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 23:21:08.507","6.140688"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Fri 09/04/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/04/2020 23:51:08.477","3.407429"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 00:21:08.488","5.844510"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 00:51:08.492","6.775281"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 01:21:08.502","4.576457"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 01:51:08.489","3.699569"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 02:21:08.494","3.602508"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 02:51:08.514","6.531163"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 03:21:08.488","6.824315"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 03:51:08.530","4.286029"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 04:21:08.478","3.700081"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 04:51:08.498","7.648296"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 05:21:08.543","7.653768"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 05:51:08.478","6.335958"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 06:21:08.517","3.456163"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 06:51:08.491","3.553861"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 07:21:08.517","6.726434"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 07:51:08.515","6.624334"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 08:21:08.490","3.749132"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 08:51:08.477","3.456520"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 09:21:08.493","5.652781"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 09:51:08.519","6.921638"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 10:21:08.495","7.605012"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 10:51:08.499","4.188446"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 11:21:08.528","3.749431"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 11:51:08.521","6.824343"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 12:21:08.492","4.333001"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)"
+"09/05/2020 12:51:08.514","7.165672"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 13:21:08.533","6.726340"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 13:51:08.509","4.478666"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 14:21:08.515","3.650211"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 14:51:08.487","6.384797"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)"
+"09/05/2020 15:21:08.526","6.775197"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 15:51:08.518","6.088300"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 16:21:08.518","6.531228"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 16:51:08.519","4.774096"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 17:21:08.505","6.673152"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 17:51:08.558","3.845047"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 18:21:08.552","4.966154"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)"
+"09/05/2020 18:51:08.519","7.019371"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 19:21:08.483","3.700322"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 19:51:08.553","5.210456"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 20:21:08.527","3.895833"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 20:51:08.512","3.749402"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 21:21:08.521","4.041881"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 21:51:08.525","3.602614"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 22:21:08.526","6.140641"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 22:51:08.534","5.262211"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 23:21:08.457","100.000000"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sat 09/05/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/05/2020 23:51:08.486","56.603482"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 00:21:08.476","53.045934"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 00:51:08.514","6.970709"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 01:21:08.453","54.116801"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 01:51:08.470","56.462578"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 02:21:08.512","31.521223"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 02:51:08.523","30.105833"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 03:21:08.521","4.530006"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 03:51:08.512","4.137590"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 04:21:08.530","3.797876"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 04:51:08.516","6.140679"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 05:21:08.526","7.068097"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 05:51:08.518","6.677669"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 06:21:08.547","3.893790"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 06:51:08.524","4.088828"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 07:21:08.487","55.920941"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 07:51:08.470","56.706547"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 08:21:08.540","5.457094"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 08:51:08.553","6.872800"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 09:21:08.537","5.506094"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 09:51:08.497","6.287419"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 10:21:08.524","6.380608"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 10:51:08.506","6.726545"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:21 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 11:21:08.544","6.970439"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:51 AM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 11:51:08.540","3.942581"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 12:21:08.507","54.604338"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 12:51:08.518","53.434109"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 13:21:08.567","6.677614"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 13:51:08.537","4.090730"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 14:21:08.569","7.654304"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 14:51:08.571","6.771187"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 15:21:08.554","3.703238"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 15:51:08.556","3.651790"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 16:21:08.549","5.213619"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 16:51:08.547","3.212671"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:21 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 17:21:08.535","3.603375"
+Exiting, please wait...                         
+The command completed successfully.
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/06/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:51 PM
+
+C:\Users\dustin\Desktop\monitoring>typeperf -sc 1 "\Processor(_Total)\% Processor Time" 
+
+"(PDH-CSV 4.0)","\\WIN-VOOC353HU8F\Processor(_Total)\% Processor Time"
+"09/06/2020 17:51:08.605","6.189592"
+Exiting, please wait...                         
+The command completed successfully.
+

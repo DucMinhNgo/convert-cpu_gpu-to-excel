@@ -533,3 +533,563 @@ EmageAI                 Sun Sep  6 06:00:02 2020  410.48
 [5] GeForce RTX 2080 Ti | 32'C,   0 % |   201 / 10989 MB | jay(191M)
 [6] GeForce RTX 2080 Ti | 30'C,   0 % |   201 / 10989 MB | jay(191M)
 [7] GeForce RTX 2080 Ti | 46'C,   4 % |  1425 / 10989 MB | jay(191M) klein(359M) klein(863M)
+Sun Sep  6 12:00:01 UTC 2020
+EmageAI                 Sun Sep  6 12:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 29'C,   0 % |  8345 / 10989 MB | jay(8335M)
+[1] GeForce RTX 2080 Ti | 31'C,   0 % |   201 / 10989 MB | jay(191M)
+[2] GeForce RTX 2080 Ti | 45'C,   0 % |  1874 / 10989 MB | jay(191M) andy(1673M)
+[3] GeForce RTX 2080 Ti | 32'C,   0 % |   201 / 10989 MB | jay(191M)
+[4] GeForce RTX 2080 Ti | 29'C,   0 % |   201 / 10989 MB | jay(191M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % |   201 / 10989 MB | jay(191M)
+[6] GeForce RTX 2080 Ti | 30'C,   0 % |   201 / 10989 MB | jay(191M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |  1066 / 10989 MB | jay(191M) klein(863M)
+Sun Sep  6 18:00:01 UTC 2020
+EmageAI                 Sun Sep  6 18:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 29'C,   0 % |  8345 / 10989 MB | jay(8335M)
+[1] GeForce RTX 2080 Ti | 31'C,   0 % |   201 / 10989 MB | jay(191M)
+[2] GeForce RTX 2080 Ti | 44'C,   0 % |  1874 / 10989 MB | jay(191M) andy(1673M)
+[3] GeForce RTX 2080 Ti | 31'C,   0 % |   201 / 10989 MB | jay(191M)
+[4] GeForce RTX 2080 Ti | 29'C,   0 % |   201 / 10989 MB | jay(191M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   201 / 10989 MB | jay(191M)
+[6] GeForce RTX 2080 Ti | 29'C,   0 % |   201 / 10989 MB | jay(191M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |  1066 / 10989 MB | jay(191M) klein(863M)
+Mon Sep  7 00:00:01 UTC 2020
+EmageAI                 Mon Sep  7 00:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 29'C,   0 % |  8345 / 10989 MB | jay(8335M)
+[1] GeForce RTX 2080 Ti | 56'C,  23 % |  9002 / 10989 MB | jay(191M) ani(8801M)
+[2] GeForce RTX 2080 Ti | 43'C,   0 % |  1874 / 10989 MB | jay(191M) andy(1673M)
+[3] GeForce RTX 2080 Ti | 31'C,   0 % |   201 / 10989 MB | jay(191M)
+[4] GeForce RTX 2080 Ti | 30'C,   0 % |   201 / 10989 MB | jay(191M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   201 / 10989 MB | jay(191M)
+[6] GeForce RTX 2080 Ti | 30'C,   0 % |   201 / 10989 MB | jay(191M)
+[7] GeForce RTX 2080 Ti | 34'C,   0 % |  1066 / 10989 MB | jay(191M) klein(863M)
+Mon Sep  7 06:00:01 UTC 2020
+EmageAI                 Mon Sep  7 06:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 30'C,   0 % |  8345 / 10989 MB | jay(8335M)
+[1] GeForce RTX 2080 Ti | 32'C,   0 % |   201 / 10989 MB | jay(191M)
+[2] GeForce RTX 2080 Ti | 50'C,   1 % |  1106 / 10989 MB | jay(191M) andy(905M)
+[3] GeForce RTX 2080 Ti | 34'C,   0 % |   201 / 10989 MB | jay(191M)
+[4] GeForce RTX 2080 Ti | 31'C,   0 % |   201 / 10989 MB | jay(191M)
+[5] GeForce RTX 2080 Ti | 33'C,   0 % |   201 / 10989 MB | jay(191M)
+[6] GeForce RTX 2080 Ti | 31'C,   0 % |   201 / 10989 MB | jay(191M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |  1066 / 10989 MB | jay(191M) klein(863M)
+Mon Sep  7 12:00:01 UTC 2020
+EmageAI                 Mon Sep  7 12:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 28'C,   0 % |  8345 / 10989 MB | jay(8335M)
+[1] GeForce RTX 2080 Ti | 67'C,   1 % |  9516 / 10989 MB | jay(191M) ani(9313M)
+[2] GeForce RTX 2080 Ti | 29'C,   0 % |   201 / 10989 MB | jay(191M)
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |   201 / 10989 MB | jay(191M)
+[4] GeForce RTX 2080 Ti | 29'C,   0 % |   201 / 10989 MB | jay(191M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   201 / 10989 MB | jay(191M)
+[6] GeForce RTX 2080 Ti | 28'C,   0 % |   201 / 10989 MB | jay(191M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |  1066 / 10989 MB | jay(191M) klein(863M)
+Mon Sep  7 18:00:01 UTC 2020
+EmageAI                 Mon Sep  7 18:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 28'C,   0 % |  8345 / 10989 MB | jay(8335M)
+[1] GeForce RTX 2080 Ti | 67'C,  16 % |  9516 / 10989 MB | jay(191M) ani(9313M)
+[2] GeForce RTX 2080 Ti | 62'C,  16 % |  9516 / 10989 MB | jay(191M) ani(9313M)
+[3] GeForce RTX 2080 Ti | 32'C,   0 % |   201 / 10989 MB | jay(191M)
+[4] GeForce RTX 2080 Ti | 28'C,   0 % |   201 / 10989 MB | jay(191M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   201 / 10989 MB | jay(191M)
+[6] GeForce RTX 2080 Ti | 28'C,   0 % |   201 / 10989 MB | jay(191M)
+[7] GeForce RTX 2080 Ti | 35'C,   0 % |  1066 / 10989 MB | jay(191M) klein(863M)
+Tue Sep  8 00:00:01 UTC 2020
+EmageAI                 Tue Sep  8 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8345 / 10989 MB | jay(8335M)
+[1] GeForce RTX 2080 Ti | 30'C,   0 % |   201 / 10989 MB | jay(191M)
+[2] GeForce RTX 2080 Ti | 63'C,  16 % |  9516 / 10989 MB | jay(191M) ani(9313M)
+[3] GeForce RTX 2080 Ti | 32'C,   0 % |   201 / 10989 MB | jay(191M)
+[4] GeForce RTX 2080 Ti | 27'C,   0 % |   201 / 10989 MB | jay(191M)
+[5] GeForce RTX 2080 Ti | 29'C,   0 % |   201 / 10989 MB | jay(191M)
+[6] GeForce RTX 2080 Ti | 28'C,   0 % |   201 / 10989 MB | jay(191M)
+[7] GeForce RTX 2080 Ti | 28'C,   0 % |  1066 / 10989 MB | jay(191M) klein(863M)
+Tue Sep  8 06:00:01 UTC 2020
+EmageAI                 Tue Sep  8 06:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 31'C,   0 % |  8345 / 10989 MB | jay(8335M)
+[1] GeForce RTX 2080 Ti | 36'C,   0 % |   201 / 10989 MB | jay(191M)
+[2] GeForce RTX 2080 Ti | 66'C,  17 % |  9516 / 10989 MB | jay(191M) ani(9313M)
+[3] GeForce RTX 2080 Ti | 36'C,   0 % |   201 / 10989 MB | jay(191M)
+[4] GeForce RTX 2080 Ti | 54'C,  18 % |  2898 / 10989 MB | jay(191M) andy(2697M)
+[5] GeForce RTX 2080 Ti | 36'C,   0 % |   201 / 10989 MB | jay(191M)
+[6] GeForce RTX 2080 Ti | 47'C,   4 % |   978 / 10989 MB | jay(191M) andy(777M)
+[7] GeForce RTX 2080 Ti | 31'C,   0 % |  1066 / 10989 MB | jay(191M) klein(863M)
+Tue Sep  8 12:00:01 UTC 2020
+EmageAI                 Tue Sep  8 12:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 35'C,   0 % |     0 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 57'C,   0 % |  8811 / 10989 MB | ani(8801M)
+[2] GeForce RTX 2080 Ti | 53'C,  18 % |  8811 / 10989 MB | ani(8801M)
+[3] GeForce RTX 2080 Ti | 70'C,  16 % |  9323 / 10989 MB | ani(9313M)
+[4] GeForce RTX 2080 Ti | 45'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 86'C,  92 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 30'C,   0 % |   201 / 10989 MB | klein(191M)
+[7] GeForce RTX 2080 Ti | 78'C,  51 % |  8891 / 10989 MB | cindy(8881M)
+Tue Sep  8 18:00:01 UTC 2020
+EmageAI                 Tue Sep  8 18:00:04 2020  410.48
+[0] GeForce RTX 2080 Ti | 34'C,   0 % |     0 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 56'C,   0 % |  8811 / 10989 MB | ani(8801M)
+[2] GeForce RTX 2080 Ti | 52'C,  18 % |  8811 / 10989 MB | ani(8801M)
+[3] GeForce RTX 2080 Ti | 66'C,   0 % |  9323 / 10989 MB | ani(9313M)
+[4] GeForce RTX 2080 Ti | 43'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 28'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 77'C,  49 % |  8891 / 10989 MB | cindy(8881M)
+Wed Sep  9 00:00:01 UTC 2020
+EmageAI                 Wed Sep  9 00:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 37'C,   0 % |     0 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 40'C,   1 % |     0 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 52'C,  18 % |  8811 / 10989 MB | ani(8801M)
+[3] GeForce RTX 2080 Ti | 65'C,  16 % |  9323 / 10989 MB | ani(9313M)
+[4] GeForce RTX 2080 Ti | 41'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 29'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 75'C,  53 % |  8891 / 10989 MB | cindy(8881M)
+Wed Sep  9 06:00:01 UTC 2020
+EmageAI                 Wed Sep  9 06:00:07 2020  410.48
+[0] GeForce RTX 2080 Ti | 50'C,  18 % |  8811 / 10989 MB | ani(8801M)
+[1] GeForce RTX 2080 Ti | 50'C,   0 % |     0 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 39'C,   1 % |     0 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 67'C,  16 % |  9323 / 10989 MB | ani(9313M)
+[4] GeForce RTX 2080 Ti | 46'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 85'C,  92 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 32'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 77'C,  52 % |  8891 / 10989 MB | cindy(8881M)
+Wed Sep  9 12:00:01 UTC 2020
+EmageAI                 Wed Sep  9 12:00:04 2020  410.48
+[0] GeForce RTX 2080 Ti | 49'C,   0 % |  8811 / 10989 MB | ani(8801M)
+[1] GeForce RTX 2080 Ti | 58'C,  23 % |  8811 / 10989 MB | ani(8801M)
+[2] GeForce RTX 2080 Ti | 37'C,   1 % |     0 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 65'C,   5 % |  9323 / 10989 MB | ani(9313M)
+[4] GeForce RTX 2080 Ti | 44'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 86'C,  92 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 51'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 78'C,  49 % |  8891 / 10989 MB | cindy(8881M)
+Wed Sep  9 18:00:01 UTC 2020
+EmageAI                 Wed Sep  9 18:00:03 2020  410.48
+[0] GeForce RTX 2080 Ti | 48'C,  18 % |  8811 / 10989 MB | ani(8801M)
+[1] GeForce RTX 2080 Ti | 57'C,  20 % |  8811 / 10989 MB | ani(8801M)
+[2] GeForce RTX 2080 Ti | 36'C,   1 % |     0 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 64'C,  16 % |  9323 / 10989 MB | ani(9313M)
+[4] GeForce RTX 2080 Ti | 42'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 33'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 47'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 76'C,  58 % |  8891 / 10989 MB | cindy(8881M)
+Thu Sep 10 00:00:01 UTC 2020
+EmageAI                 Thu Sep 10 00:00:03 2020  410.48
+[0] GeForce RTX 2080 Ti | 37'C,   0 % |     0 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 51'C,   5 % | 10921 / 10989 MB | ani(10911M)
+[2] GeForce RTX 2080 Ti | 46'C,   0 % | 10639 / 10989 MB | ani(10631M)
+[3] GeForce RTX 2080 Ti | 50'C,   0 % | 10921 / 10989 MB | ani(10911M)
+[4] GeForce RTX 2080 Ti | 40'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 46'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 37'C,   1 % |     0 / 10989 MB |
+Thu Sep 10 06:00:01 UTC 2020
+EmageAI                 Thu Sep 10 06:00:04 2020  410.48
+[0] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 48'C,   0 % |     0 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 40'C,   0 % |     0 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 40'C,   1 % |     0 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 42'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 35'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 47'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 55'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Thu Sep 10 12:00:01 UTC 2020
+EmageAI                 Thu Sep 10 12:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 70'C,  43 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 36'C,   1 % |     0 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 49'C,   5 % | 10921 / 10989 MB | ani(10911M)
+[4] GeForce RTX 2080 Ti | 39'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 33'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 46'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 51'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Thu Sep 10 18:00:01 UTC 2020
+EmageAI                 Thu Sep 10 18:00:06 2020  410.48
+[0] GeForce RTX 2080 Ti | 68'C,  69 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 38'C,   0 % |     0 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 37'C,   1 % |     0 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 37'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 44'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 48'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Fri Sep 11 00:00:01 UTC 2020
+EmageAI                 Fri Sep 11 00:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 69'C,  28 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 38'C,   0 % |     0 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 37'C,   1 % |     0 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 35'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 43'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 48'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Fri Sep 11 06:00:01 UTC 2020
+EmageAI                 Fri Sep 11 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 68'C,  58 % |  9272 / 10989 MB | klein(8599M) dave(663M)
+[1] GeForce RTX 2080 Ti | 53'C,   3 % | 10921 / 10989 MB | ani(10911M)
+[2] GeForce RTX 2080 Ti | 49'C,   3 % | 10921 / 10989 MB | ani(10911M)
+[3] GeForce RTX 2080 Ti | 62'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 38'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 34'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 46'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 52'C,  22 % |  2707 / 10989 MB | andy(2697M)
+Fri Sep 11 12:00:02 UTC 2020
+EmageAI                 Fri Sep 11 12:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 67'C,  50 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 40'C,   1 % |     0 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 72'C,  51 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 58'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 36'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 44'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 47'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Fri Sep 11 18:00:01 UTC 2020
+EmageAI                 Fri Sep 11 18:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 68'C,  65 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 58'C,  36 % |  1269 / 10989 MB | antonino(1259M)
+[2] GeForce RTX 2080 Ti | 74'C,  52 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 56'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 35'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 42'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 49'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Sat Sep 12 00:00:01 UTC 2020
+EmageAI                 Sat Sep 12 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 58'C,  33 % |  1269 / 10989 MB | antonino(1259M)
+[2] GeForce RTX 2080 Ti | 73'C,  48 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 55'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 34'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 42'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 48'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Sat Sep 12 06:00:01 UTC 2020
+EmageAI                 Sat Sep 12 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 74'C,  27 % |  1469 / 10989 MB | antonino(1459M)
+[2] GeForce RTX 2080 Ti | 75'C,  51 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 55'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 34'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 49'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Sat Sep 12 12:00:01 UTC 2020
+EmageAI                 Sat Sep 12 12:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 51'C,   7 % |   923 / 10989 MB | antonino(913M)
+[2] GeForce RTX 2080 Ti | 62'C,  35 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 48'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 31'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 33'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 37'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Sat Sep 12 18:00:01 UTC 2020
+EmageAI                 Sat Sep 12 18:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 50'C,   7 % |   923 / 10989 MB | antonino(913M)
+[2] GeForce RTX 2080 Ti | 71'C,  37 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 51'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 30'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 34'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 37'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Sun Sep 13 00:00:01 UTC 2020
+EmageAI                 Sun Sep 13 00:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 75'C,   0 % |  1469 / 10989 MB | antonino(1459M)
+[2] GeForce RTX 2080 Ti | 68'C,  47 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 53'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 34'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 43'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Sun Sep 13 06:00:01 UTC 2020
+EmageAI                 Sun Sep 13 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 79'C,  72 % |  1469 / 10989 MB | antonino(1459M)
+[2] GeForce RTX 2080 Ti | 76'C,  54 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 51'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[4] GeForce RTX 2080 Ti | 34'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 35'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[7] GeForce RTX 2080 Ti | 42'C,   0 % |  2707 / 10989 MB | andy(2697M)
+Sun Sep 13 12:00:01 UTC 2020
+EmageAI                 Sun Sep 13 12:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 39'C,   0 % |  6087 / 10989 MB | klein(6077M)
+[2] GeForce RTX 2080 Ti | 74'C,  51 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 50'C,   0 % |  7244 / 10989 MB | andy(2697M) klein(4537M)
+[4] GeForce RTX 2080 Ti | 34'C,   0 % |  7244 / 10989 MB | andy(2697M) klein(4537M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |  7244 / 10989 MB | andy(2697M) klein(4537M)
+[7] GeForce RTX 2080 Ti | 43'C,   0 % |  7242 / 10989 MB | andy(2697M) klein(4535M)
+Sun Sep 13 18:00:01 UTC 2020
+EmageAI                 Sun Sep 13 18:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 71'C,  70 % | 10829 / 10989 MB | klein(10819M)
+[2] GeForce RTX 2080 Ti | 73'C,  54 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 69'C,  47 % | 10714 / 10989 MB | andy(2697M) klein(8007M)
+[4] GeForce RTX 2080 Ti | 57'C,  45 % | 10714 / 10989 MB | andy(2697M) klein(8007M)
+[5] GeForce RTX 2080 Ti | 34'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 57'C,  48 % | 10692 / 10989 MB | andy(2697M) klein(7985M)
+[7] GeForce RTX 2080 Ti | 66'C,  65 % | 10596 / 10989 MB | andy(2697M) klein(7889M)
+Mon Sep 14 00:00:01 UTC 2020
+EmageAI                 Mon Sep 14 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 72'C,  66 % | 10829 / 10989 MB | klein(10819M)
+[2] GeForce RTX 2080 Ti | 74'C,  60 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 70'C,  48 % | 10714 / 10989 MB | andy(2697M) klein(8007M)
+[4] GeForce RTX 2080 Ti | 57'C,  50 % | 10714 / 10989 MB | andy(2697M) klein(8007M)
+[5] GeForce RTX 2080 Ti | 34'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 57'C,  65 % | 10692 / 10989 MB | andy(2697M) klein(7985M)
+[7] GeForce RTX 2080 Ti | 66'C,  69 % | 10596 / 10989 MB | andy(2697M) klein(7889M)
+Mon Sep 14 06:00:01 UTC 2020
+EmageAI                 Mon Sep 14 06:00:05 2020  410.48
+[0] GeForce RTX 2080 Ti | 30'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 48'C,   0 % |     0 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 74'C,  53 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 48'C,   0 % |     0 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 34'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 36'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 50'C,  16 % |  1365 / 10989 MB | dave(1355M)
+[7] GeForce RTX 2080 Ti | 40'C,   1 % |     0 / 10989 MB |
+Mon Sep 14 12:00:01 UTC 2020
+EmageAI                 Mon Sep 14 12:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 52'C,   2 % | 10921 / 10989 MB | ani(10911M)
+[2] GeForce RTX 2080 Ti | 60'C,  28 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 52'C,   2 % | 10921 / 10989 MB | ani(10911M)
+[4] GeForce RTX 2080 Ti | 51'C,  20 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 47'C,  31 % |  1367 / 10989 MB | dave(1357M)
+[7] GeForce RTX 2080 Ti | 27'C,   0 % |  1391 / 10989 MB | klein(1381M)
+Mon Sep 14 18:00:01 UTC 2020
+EmageAI                 Mon Sep 14 18:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 68'C,   0 % |  1291 / 10989 MB | antonino(1281M)
+[2] GeForce RTX 2080 Ti | 74'C,  56 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 57'C,  35 % |  1269 / 10989 MB | antonino(1259M)
+[4] GeForce RTX 2080 Ti | 45'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 47'C,  11 % |  1367 / 10989 MB | dave(1357M)
+[7] GeForce RTX 2080 Ti | 52'C,  21 % | 10192 / 10989 MB | klein(1381M) duy(8801M)
+Tue Sep 15 00:00:01 UTC 2020
+EmageAI                 Tue Sep 15 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 70'C,   0 % |  1291 / 10989 MB | antonino(1281M)
+[2] GeForce RTX 2080 Ti | 75'C,  61 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 57'C,  20 % |  1269 / 10989 MB | antonino(1259M)
+[4] GeForce RTX 2080 Ti | 43'C,   0 % |  2707 / 10989 MB | andy(2697M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 48'C,  32 % |  1367 / 10989 MB | dave(1357M)
+[7] GeForce RTX 2080 Ti | 54'C,  25 % | 10192 / 10989 MB | klein(1381M) duy(8801M)
+Tue Sep 15 06:00:01 UTC 2020
+EmageAI                 Tue Sep 15 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 28'C,   0 % |  8609 / 10989 MB | klein(8599M)
+[1] GeForce RTX 2080 Ti | 53'C,  14 % |   923 / 10989 MB | antonino(913M)
+[2] GeForce RTX 2080 Ti | 76'C,  56 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 60'C,  36 % |  1269 / 10989 MB | antonino(1259M)
+[4] GeForce RTX 2080 Ti | 43'C,   0 % |   947 / 10989 MB | andy(937M)
+[5] GeForce RTX 2080 Ti | 33'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 50'C,  38 % |  1365 / 10989 MB | dave(1355M)
+[7] GeForce RTX 2080 Ti | 29'C,   0 % |  1391 / 10989 MB | klein(1381M)
+Tue Sep 15 12:00:01 UTC 2020
+EmageAI                 Tue Sep 15 12:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 52'C,  13 % |   923 / 10989 MB | antonino(913M)
+[2] GeForce RTX 2080 Ti | 68'C,  33 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 59'C,  34 % |  1269 / 10989 MB | antonino(1259M)
+[4] GeForce RTX 2080 Ti | 41'C,   9 % |  1171 / 10989 MB | andy(1161M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 48'C,  38 % |  1365 / 10989 MB | dave(1355M)
+[7] GeForce RTX 2080 Ti | 27'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Tue Sep 15 18:00:01 UTC 2020
+EmageAI                 Tue Sep 15 18:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 51'C,  13 % |   923 / 10989 MB | antonino(913M)
+[2] GeForce RTX 2080 Ti | 73'C,  60 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 33'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 40'C,   0 % |  1171 / 10989 MB | andy(1161M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 47'C,  38 % |  1365 / 10989 MB | dave(1355M)
+[7] GeForce RTX 2080 Ti | 27'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Wed Sep 16 00:00:01 UTC 2020
+EmageAI                 Wed Sep 16 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 30'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 75'C,  54 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 32'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 39'C,   9 % |  1171 / 10989 MB | andy(1161M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 48'C,  36 % |  1365 / 10989 MB | dave(1355M)
+[7] GeForce RTX 2080 Ti | 24'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Wed Sep 16 06:00:01 UTC 2020
+EmageAI                 Wed Sep 16 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 29'C,   0 % |  1673 / 10989 MB | scott(1663M)
+[1] GeForce RTX 2080 Ti | 34'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 78'C,  57 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 35'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 57'C,   5 % |  4005 / 10989 MB | andy(1161M) andy(1161M) andy(1673M)
+[5] GeForce RTX 2080 Ti | 34'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 48'C,  23 % |  1365 / 10989 MB | dave(1355M)
+[7] GeForce RTX 2080 Ti | 52'C,  38 % |  3140 / 10989 MB | klein(1835M) dave(1295M)
+Wed Sep 16 12:00:01 UTC 2020
+EmageAI                 Wed Sep 16 12:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 33'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 74'C,  57 % |  8891 / 10989 MB | cindy(8881M)
+[3] GeForce RTX 2080 Ti | 33'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 58'C,  29 % |  7351 / 10989 MB | andy(1161M) andy(1161M) andy(1673M) andy(1673M) andy(1673M)
+[5] GeForce RTX 2080 Ti | 29'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 49'C,  36 % |  3140 / 10989 MB | klein(1835M) dave(1295M)
+Wed Sep 16 18:00:01 UTC 2020
+EmageAI                 Wed Sep 16 18:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 31'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 56'C,  40 % |  7351 / 10989 MB | andy(1161M) andy(1161M) andy(1673M) andy(1673M) andy(1673M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 51'C,  37 % |  3142 / 10989 MB | klein(1835M) dave(1297M)
+Thu Sep 17 00:00:01 UTC 2020
+EmageAI                 Thu Sep 17 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 30'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 45'C,   0 % |  7351 / 10989 MB | andy(1161M) andy(1161M) andy(1673M) andy(1673M) andy(1673M)
+[5] GeForce RTX 2080 Ti | 27'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 25'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 51'C,  37 % |  3142 / 10989 MB | klein(1835M) dave(1297M)
+Thu Sep 17 06:00:01 UTC 2020
+EmageAI                 Thu Sep 17 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 30'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 36'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 31'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 31'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 63'C,   0 % |  9026 / 10989 MB | andy(1161M) andy(1161M) andy(1673M) andy(1673M) andy(1673M) andy(1673M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 30'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 29'C,   0 % |  2654 / 10989 MB | klein(1835M) klein(809M)
+Thu Sep 17 12:00:01 UTC 2020
+EmageAI                 Thu Sep 17 12:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 27'C,   0 % | 10985 / 10989 MB | scott(10975M)
+[1] GeForce RTX 2080 Ti | 31'C,   0 % |   845 / 10989 MB | scott(835M)
+[2] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 43'C,   0 % |  4517 / 10989 MB | andy(1161M) andy(1673M) andy(1673M)
+[5] GeForce RTX 2080 Ti | 34'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 60'C,  41 % |  1375 / 10989 MB | andy(1365M)
+[7] GeForce RTX 2080 Ti | 25'C,   0 % |  2654 / 10989 MB | klein(1835M) klein(809M)
+Thu Sep 17 18:00:01 UTC 2020
+EmageAI                 Thu Sep 17 18:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 30'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 42'C,   0 % |  4517 / 10989 MB | andy(1161M) andy(1673M) andy(1673M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 24'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Fri Sep 18 00:00:01 UTC 2020
+EmageAI                 Fri Sep 18 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 29'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 41'C,   0 % |  4517 / 10989 MB | andy(1161M) andy(1673M) andy(1673M)
+[5] GeForce RTX 2080 Ti | 27'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 25'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 24'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Fri Sep 18 06:00:01 UTC 2020
+EmageAI                 Fri Sep 18 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 30'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 37'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 31'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 31'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 68'C,  42 % | 10294 / 10989 MB | andy(1161M) andy(1673M) andy(1365M) andy(6085M)
+[5] GeForce RTX 2080 Ti | 32'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 30'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 29'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Fri Sep 18 12:00:01 UTC 2020
+EmageAI                 Fri Sep 18 12:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 33'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 61'C,  53 % |  5427 / 10989 MB | andy(5417M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 25'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Fri Sep 18 18:00:01 UTC 2020
+EmageAI                 Fri Sep 18 18:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 32'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 28'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 79'C,  59 % |  8863 / 10989 MB | cindy(8853M)
+[4] GeForce RTX 2080 Ti | 62'C,  59 % |  5429 / 10989 MB | andy(5419M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 25'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Sat Sep 19 00:00:01 UTC 2020
+EmageAI                 Sat Sep 19 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 32'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 76'C,  56 % |  8863 / 10989 MB | cindy(8853M)
+[4] GeForce RTX 2080 Ti | 61'C,  63 % |  5429 / 10989 MB | andy(5419M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 25'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Sat Sep 19 06:00:01 UTC 2020
+EmageAI                 Sat Sep 19 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 32'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 78'C,  50 % |  8863 / 10989 MB | cindy(8853M)
+[4] GeForce RTX 2080 Ti | 61'C,  44 % |  5429 / 10989 MB | andy(5419M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 25'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Sat Sep 19 12:00:01 UTC 2020
+EmageAI                 Sat Sep 19 12:00:02 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 32'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 76'C,  54 % |  8863 / 10989 MB | cindy(8853M)
+[4] GeForce RTX 2080 Ti | 65'C,  58 % |  5429 / 10989 MB | andy(5419M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 25'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Sat Sep 19 18:00:01 UTC 2020
+EmageAI                 Sat Sep 19 18:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[1] GeForce RTX 2080 Ti | 33'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 77'C,  58 % |  8863 / 10989 MB | cindy(8853M)
+[4] GeForce RTX 2080 Ti | 62'C,  43 % |  5429 / 10989 MB | andy(5419M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 25'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Sun Sep 20 00:00:01 UTC 2020
+EmageAI                 Sun Sep 20 00:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 42'C,  10 % |   875 / 10989 MB | antonino(865M)
+[1] GeForce RTX 2080 Ti | 32'C,   0 % |    10 / 10989 MB |
+[2] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 77'C,  49 % |  8863 / 10989 MB | cindy(8853M)
+[4] GeForce RTX 2080 Ti | 64'C,  49 % |  5429 / 10989 MB | andy(5419M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 25'C,   0 % |  1845 / 10989 MB | klein(1835M)
+Sun Sep 20 06:00:01 UTC 2020
+EmageAI                 Sun Sep 20 06:00:01 2020  410.48
+[0] GeForce RTX 2080 Ti | 42'C,  10 % |   875 / 10989 MB | antonino(865M)
+[1] GeForce RTX 2080 Ti | 53'C,   9 % |   855 / 10989 MB | antonino(845M)
+[2] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[3] GeForce RTX 2080 Ti | 27'C,   0 % |    10 / 10989 MB |
+[4] GeForce RTX 2080 Ti | 65'C,  67 % |  5431 / 10989 MB | andy(5421M)
+[5] GeForce RTX 2080 Ti | 28'C,   0 % | 10621 / 10989 MB | klein(10611M)
+[6] GeForce RTX 2080 Ti | 26'C,   0 % |    10 / 10989 MB |
+[7] GeForce RTX 2080 Ti | 27'C,   0 % |  1845 / 10989 MB | klein(1835M)

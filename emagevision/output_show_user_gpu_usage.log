@@ -1,70 +1,270 @@
-Mon Aug 24 06:59:20 UTC 2020
-ml-server2              Mon Aug 24 06:59:28 2020  440.100
-[0] GeForce RTX 2080 Ti | 72'C,  44 % | 10924 / 11019 MB | pravin(10911M)
-[1] GeForce RTX 2080 Ti | 42'C,   0 % |     0 / 11019 MB |
-[2] GeForce RTX 2080 Ti | 40'C,   0 % |     0 / 11019 MB |
-[3] GeForce RTX 2080 Ti | 45'C,   0 % |     0 / 11019 MB |
-[4] GeForce RTX 2080 Ti | 80'C,  43 % | 10922 / 11019 MB | shreevijay(10909M)
-[5] GeForce RTX 2080 Ti | 48'C,   0 % |     0 / 11019 MB |
-[6] GeForce RTX 2080 Ti | 56'C,   1 % |     0 / 11019 MB |
-[7] GeForce RTX 2080 Ti | 45'C,   0 % |     0 / 11019 MB |
-Tue Aug 25 07:57:02 UTC 2020
-ml-server2              Tue Aug 25 07:57:10 2020  440.100
-[0] GeForce RTX 2080 Ti | 71'C,  48 % | 10924 / 11019 MB | pravin(10911M)
+Mon Sep 14 03:31:01 UTC 2020
+ml-server2              Mon Sep 14 03:31:09 2020  440.100
+[0] GeForce RTX 2080 Ti | 38'C,   0 % |     0 / 11019 MB |
 [1] GeForce RTX 2080 Ti | 41'C,   0 % |     0 / 11019 MB |
-[2] GeForce RTX 2080 Ti | 39'C,   0 % |     0 / 11019 MB |
-[3] GeForce RTX 2080 Ti | 44'C,   0 % |     0 / 11019 MB |
-[4] GeForce RTX 2080 Ti | 77'C,  33 % | 10922 / 11019 MB | shreevijay(10909M)
-[5] GeForce RTX 2080 Ti | 47'C,   0 % |     0 / 11019 MB |
-[6] GeForce RTX 2080 Ti | 55'C,   1 % |     0 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 40'C,   0 % |     0 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 45'C,   0 % |     0 / 11019 MB |
+[5] GeForce RTX 2080 Ti | 84'C,  80 % | 10972 / 11019 MB | vignesh(10961M)
+[6] GeForce RTX 2080 Ti | 49'C,   1 % |     0 / 11019 MB |
 [7] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 11019 MB |
-Mon Aug 31 03:02:11 UTC 2020
-ml-server2              Mon Aug 31 03:02:18 2020  440.100
-[0] GeForce RTX 2080 Ti | 69'C,  42 % | 10924 / 11019 MB | pravin(10911M)
-[1] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 11019 MB |
-[2] GeForce RTX 2080 Ti | 42'C,   0 % |     0 / 11019 MB |
-[3] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-[4] GeForce RTX 2080 Ti | 81'C,  57 % | 10922 / 11019 MB | shreevijay(10909M)
-[5] GeForce RTX 2080 Ti | 50'C,   0 % |     0 / 11019 MB |
-[6] GeForce RTX 2080 Ti | 57'C,   1 % |     0 / 11019 MB |
-[7] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-Mon Aug 31 03:04:41 UTC 2020
-ml-server2              Mon Aug 31 03:04:49 2020  440.100
-[0] GeForce RTX 2080 Ti | 71'C,  41 % | 10924 / 11019 MB | pravin(10911M)
-[1] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 11019 MB |
-[2] GeForce RTX 2080 Ti | 42'C,   0 % |     0 / 11019 MB |
-[3] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-[4] GeForce RTX 2080 Ti | 80'C,  48 % | 10922 / 11019 MB | shreevijay(10909M)
-[5] GeForce RTX 2080 Ti | 50'C,   0 % |     0 / 11019 MB |
-[6] GeForce RTX 2080 Ti | 57'C,   1 % |     0 / 11019 MB |
-[7] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-Mon Aug 31 03:26:07 UTC 2020
-ml-server2              Mon Aug 31 03:26:14 2020  440.100
-[0] GeForce RTX 2080 Ti | 68'C,  36 % | 10924 / 11019 MB | pravin(10911M)
-[1] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 11019 MB |
-[2] GeForce RTX 2080 Ti | 42'C,   0 % |     0 / 11019 MB |
-[3] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-[4] GeForce RTX 2080 Ti | 83'C,  51 % | 10922 / 11019 MB | shreevijay(10909M)
-[5] GeForce RTX 2080 Ti | 50'C,   0 % |     0 / 11019 MB |
-[6] GeForce RTX 2080 Ti | 57'C,   1 % |     0 / 11019 MB |
-[7] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-Mon Aug 31 03:28:52 UTC 2020
-ml-server2              Mon Aug 31 03:28:59 2020  440.100
-[0] GeForce RTX 2080 Ti | 69'C,  35 % | 10924 / 11019 MB | pravin(10911M)
-[1] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 11019 MB |
-[2] GeForce RTX 2080 Ti | 42'C,   0 % |     0 / 11019 MB |
-[3] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-[4] GeForce RTX 2080 Ti | 80'C,  64 % | 10922 / 11019 MB | shreevijay(10909M)
-[5] GeForce RTX 2080 Ti | 50'C,   0 % |     0 / 11019 MB |
-[6] GeForce RTX 2080 Ti | 57'C,   1 % |     0 / 11019 MB |
-[7] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-Mon Aug 31 03:29:39 UTC 2020
-ml-server2              Mon Aug 31 03:29:45 2020  440.100
-[0] GeForce RTX 2080 Ti | 64'C,   0 % | 10924 / 11019 MB | pravin(10911M)
-[1] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 11019 MB |
-[2] GeForce RTX 2080 Ti | 42'C,   0 % |     0 / 11019 MB |
-[3] GeForce RTX 2080 Ti | 46'C,   0 % |     0 / 11019 MB |
-[4] GeForce RTX 2080 Ti | 83'C,  40 % | 10922 / 11019 MB | shreevijay(10909M)
-[5] GeForce RTX 2080 Ti | 50'C,   0 % |     0 / 11019 MB |
-[6] GeForce RTX 2080 Ti | 57'C,   1 % |     0 / 11019 MB |
-[7] GeForce RTX 2080 Ti | 45'C,   0 % |     0 / 11019 MB |
+Mon Sep 14 03:32:01 UTC 2020
+ml-server2              Mon Sep 14 03:32:08 2020  440.100
+[0] GeForce RTX 2080 Ti | 38'C,   0 % |     0 / 11019 MB |
+[1] GeForce RTX 2080 Ti | 41'C,   0 % |     0 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 40'C,   0 % |     0 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 44'C,   0 % |     0 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 45'C,   0 % |     0 / 11019 MB |
+[5] GeForce RTX 2080 Ti | 85'C,  81 % | 10972 / 11019 MB | vignesh(10961M)
+[6] GeForce RTX 2080 Ti | 49'C,   1 % |     0 / 11019 MB |
+[7] GeForce RTX 2080 Ti | 43'C,   0 % |     0 / 11019 MB |
+Mon Sep 14 03:33:01 UTC 2020
+ml-server2              Mon Sep 14 03:33:08 2020  440.100
+[0] GeForce RTX 2080 Ti | 38'C,   0 % |     0 / 11019 MB |
+[1] GeForce RTX 2080 Ti | 41'C,   0 % |     0 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 40'C,   0 % |     0 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 44'C,   0 % |     0 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 45'C,   0 % |     0 / 11019 MB |
+[5] GeForce RTX 2080 Ti | 83'C,  77 % | 10972 / 11019 MB | vignesh(10961M)
+[6] GeForce RTX 2080 Ti | 49'C,   1 % |     0 / 11019 MB |
+[7] GeForce RTX 2080 Ti | 42'C,   0 % |     0 / 11019 MB |
+Mon Sep 14 12:00:01 UTC 2020
+ml-server2              Mon Sep 14 12:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[1] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 30'C,   0 % |     1 / 11019 MB |
+[5] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[6] GeForce RTX 2080 Ti | 30'C,   0 % |     1 / 11019 MB |
+[7] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+Mon Sep 14 18:00:01 UTC 2020
+ml-server2              Mon Sep 14 18:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[1] GeForce RTX 2080 Ti | 26'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 24'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[5] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[6] GeForce RTX 2080 Ti | 30'C,   0 % |     1 / 11019 MB |
+[7] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+Tue Sep 15 00:00:01 UTC 2020
+ml-server2              Tue Sep 15 00:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[1] GeForce RTX 2080 Ti | 26'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 24'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[5] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[6] GeForce RTX 2080 Ti | 30'C,   0 % |     1 / 11019 MB |
+[7] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+Tue Sep 15 06:00:01 UTC 2020
+ml-server2              Tue Sep 15 06:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 26'C,   0 % |     1 / 11019 MB |
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 26'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 31'C,   0 % |     1 / 11019 MB |
+[5] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[6] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+Tue Sep 15 12:00:01 UTC 2020
+ml-server2              Tue Sep 15 12:00:02 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 67'C,  35 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 32'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[5] GeForce RTX 2080 Ti | 33'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 42'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+Tue Sep 15 18:00:01 UTC 2020
+ml-server2              Tue Sep 15 18:00:02 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 69'C,  52 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 30'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 40'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+Wed Sep 16 00:00:01 UTC 2020
+ml-server2              Wed Sep 16 00:00:02 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 64'C,  48 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 30'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+Wed Sep 16 06:00:01 UTC 2020
+ml-server2              Wed Sep 16 06:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 63'C,  22 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 30'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 30'C,   0 % |   156 / 11019 MB | gowtham(153M)
+[3] GeForce RTX 2080 Ti | 31'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 73'C,  22 % | 10934 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 33'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 42'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 35'C,   0 % |     1 / 11019 MB |
+Wed Sep 16 12:00:01 UTC 2020
+ml-server2              Wed Sep 16 12:00:02 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 66'C,  60 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 30'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 40'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |   156 / 11019 MB | gowtham(153M)
+Wed Sep 16 18:00:01 UTC 2020
+ml-server2              Wed Sep 16 18:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 67'C,  53 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 30'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+Thu Sep 17 00:00:01 UTC 2020
+ml-server2              Thu Sep 17 00:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 64'C,  61 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 26'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 24'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 29'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+Thu Sep 17 06:00:01 UTC 2020
+ml-server2              Thu Sep 17 06:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 67'C,  40 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 73'C,  37 % | 10934 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 35'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 43'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 36'C,   0 % |     1 / 11019 MB |
+Thu Sep 17 12:00:01 UTC 2020
+ml-server2              Thu Sep 17 12:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 63'C,  35 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 26'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 30'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 72'C,  35 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 38'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+Thu Sep 17 18:00:01 UTC 2020
+ml-server2              Thu Sep 17 18:00:02 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 62'C,  35 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 74'C,  33 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+Fri Sep 18 00:00:01 UTC 2020
+ml-server2              Fri Sep 18 00:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 47'C,  19 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 27'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 69'C,  27 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 38'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+Fri Sep 18 06:00:01 UTC 2020
+ml-server2              Fri Sep 18 06:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 67'C,  41 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 73'C,  30 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 35'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 43'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 36'C,   0 % |     1 / 11019 MB |
+Fri Sep 18 12:00:01 UTC 2020
+ml-server2              Fri Sep 18 12:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 62'C,  35 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 26'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 72'C,  33 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 40'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+Fri Sep 18 18:00:01 UTC 2020
+ml-server2              Fri Sep 18 18:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 61'C,  54 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 74'C,  45 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 40'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+Sat Sep 19 00:00:01 UTC 2020
+ml-server2              Sat Sep 19 00:00:02 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 61'C,  35 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 73'C,  33 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 30'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 32'C,   0 % |     1 / 11019 MB |
+Sat Sep 19 06:00:01 UTC 2020
+ml-server2              Sat Sep 19 06:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 62'C,  43 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 71'C,  45 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 40'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+Sat Sep 19 12:00:01 UTC 2020
+ml-server2              Sat Sep 19 12:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 62'C,  56 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 67'C,  30 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+Sat Sep 19 18:00:01 UTC 2020
+ml-server2              Sat Sep 19 18:00:02 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 63'C,  34 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 70'C,  30 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+Sun Sep 20 00:00:01 UTC 2020
+ml-server2              Sun Sep 20 00:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 62'C,  34 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 75'C,  46 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |
+Sun Sep 20 06:00:01 UTC 2020
+ml-server2              Sun Sep 20 06:00:01 2020  450.51.06
+[0] GeForce RTX 2080 Ti | 59'C,   0 % | 10924 / 11019 MB | pravin(10919M)
+[1] GeForce RTX 2080 Ti | 28'C,   0 % |     1 / 11019 MB |
+[2] GeForce RTX 2080 Ti | 25'C,   0 % |     1 / 11019 MB |
+[3] GeForce RTX 2080 Ti | 29'C,   0 % |     1 / 11019 MB |
+[4] GeForce RTX 2080 Ti | 75'C,  35 % | 10936 / 11019 MB | shreevijay(153M) shreevijay(153M) shreevijay(10625M)
+[5] GeForce RTX 2080 Ti | 31'C,   0 % |   156 / 11019 MB | shreevijay(153M)
+[6] GeForce RTX 2080 Ti | 39'C,   0 % |   309 / 11019 MB | shreevijay(153M) shreevijay(153M)
+[7] GeForce RTX 2080 Ti | 33'C,   0 % |     1 / 11019 MB |

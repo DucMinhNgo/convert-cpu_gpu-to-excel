@@ -1,3 +1,4 @@
+from Userlist.array_user import _get_list_user_func
 # read file
 file = open('../emage/output_show_user_mem_usage.log', 'r')
 lines = file.read().splitlines()
@@ -15,7 +16,8 @@ print (_len_lines)
 _count = 0
 count_mem = 0
 count_used = 0
-_list_user = ['andy', 'cindy', 'dustin', 'jay', 'klein1', 'mateo', 'root', 'scott', 'turing', 'wayne', 'thinh', 'duy', 'Neil', 'shinre', 'klein', 'Darius', 'dao']
+# _list_user = ['andy', 'cindy', 'dustin', 'jay', 'klein1', 'mateo', 'root', 'scott', 'turing', 'wayne', 'thinh', 'duy', 'Neil', 'shinre', 'klein', 'Darius', 'dao']
+_list_user = _get_list_user_func("Userlist/EAI-Linux.log")
 _count_user = 0
 _len_user = len(_list_user)
 worksheet.write(0, 0, 'date_cpu')

@@ -26823,3 +26823,1111 @@ utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [Mi
 0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
 0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
 0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Sun 09/20/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+06:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+07:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+08:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10916 MiB, 348 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10922 MiB, 342 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+0 %, 0 %, 11264 MiB, 2762 MiB, 8502 MiB
+32 %, 14 %, 11264 MiB, 4498 MiB, 6766 MiB
+33 %, 14 %, 11264 MiB, 4561 MiB, 6703 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+30 %, 14 %, 11264 MiB, 4498 MiB, 6766 MiB
+33 %, 14 %, 11264 MiB, 4622 MiB, 6642 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+33 %, 15 %, 11264 MiB, 4498 MiB, 6766 MiB
+37 %, 15 %, 11264 MiB, 4568 MiB, 6696 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+31 %, 14 %, 11264 MiB, 4255 MiB, 7009 MiB
+33 %, 13 %, 11264 MiB, 4312 MiB, 6952 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+15 %, 2 %, 11264 MiB, 1744 MiB, 9520 MiB
+9 %, 1 %, 11264 MiB, 1744 MiB, 9520 MiB
+9 %, 1 %, 11264 MiB, 1744 MiB, 9520 MiB
+9 %, 2 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+45 %, 29 %, 11264 MiB, 4255 MiB, 7009 MiB
+50 %, 30 %, 11264 MiB, 4308 MiB, 6956 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+16 %, 2 %, 11264 MiB, 1744 MiB, 9520 MiB
+9 %, 1 %, 11264 MiB, 1744 MiB, 9520 MiB
+9 %, 1 %, 11264 MiB, 1744 MiB, 9520 MiB
+8 %, 1 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+19 %, 9 %, 11264 MiB, 4255 MiB, 7009 MiB
+18 %, 7 %, 11264 MiB, 4303 MiB, 6961 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+30 %, 13 %, 11264 MiB, 4498 MiB, 6766 MiB
+36 %, 14 %, 11264 MiB, 4551 MiB, 6713 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+31 %, 13 %, 11264 MiB, 4255 MiB, 7009 MiB
+29 %, 9 %, 11264 MiB, 4306 MiB, 6958 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10911 MiB, 353 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+6 %, 0 %, 11264 MiB, 9908 MiB, 1356 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 2111 MiB, 9153 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10807 MiB, 457 MiB
+0 %, 0 %, 11264 MiB, 10615 MiB, 649 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+03:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10846 MiB, 418 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10846 MiB, 418 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+04:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10809 MiB, 455 MiB
+0 %, 0 %, 11264 MiB, 10849 MiB, 415 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running. This can also be happening if non-NVIDIA GPU is running as primary display, and NVIDIA GPU is in WDDM mode.
+
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Mon 09/21/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+05:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+09:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11026 MiB, 238 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 2113 MiB, 9151 MiB
+0 %, 0 %, 11264 MiB, 10914 MiB, 350 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+10:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 1744 MiB, 9520 MiB
+0 %, 0 %, 11264 MiB, 10914 MiB, 350 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:14 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10919 MiB, 345 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+11:44 AM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10896 MiB, 368 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10892 MiB, 372 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+12:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10887 MiB, 377 MiB
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+01:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:14 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+
+C:\Users\dustin\Desktop\monitoring>date /T 
+Tue 09/22/2020 
+
+C:\Users\dustin\Desktop\monitoring>time /T 
+02:44 PM
+
+C:\Users\dustin\Desktop\monitoring>nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv 
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 11049 MiB, 215 MiB
+0 %, 0 %, 11264 MiB, 10933 MiB, 331 MiB

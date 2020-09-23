@@ -3278,3 +3278,255 @@ USED
 0 systemd+
 0 uuidd
 0 xrdp
+Sun Sep 20 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1.8 pravin
+0 root
+43.4 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1035 pravin
+0.9 root
+1686.2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+0 xrdp
+Sun Sep 20 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1.8 pravin
+0 root
+43.4 shreevi+
+0 
+0 syslog
+0 systemd+
+0 uuidd
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1028 pravin
+0.7 root
+1688.1 shreevi+
+0 
+0 syslog
+0 systemd+
+0 uuidd
+0 xrdp
+Mon Sep 21 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1.8 pravin
+0 root
+43.5 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+12 dustin
+0 message+
+0 nobody
+1025 pravin
+3.7 root
+1682.1 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+0 xrdp
+Mon Sep 21 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 gowtham
+0 message+
+0 nobody
+0 pravin
+0 root
+14.5 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 gowtham
+0 message+
+0 nobody
+0 pravin
+1 root
+0.9 shreevi+
+0.2 sshd
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+Mon Sep 21 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+14.5 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+10.5 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.7 root
+0.9 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+117 vignesh
+0 xrdp
+Mon Sep 21 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+14.5 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.7 root
+0.8 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0.1 xrdp
+Tue Sep 22 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+14.5 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+17 dustin
+0 message+
+0 nobody
+0 pravin
+0.6 root
+0.8 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0 xrdp
+Tue Sep 22 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+14.5 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+1.5 root
+0.7 shreevi+
+1 sshd
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0 xrdp

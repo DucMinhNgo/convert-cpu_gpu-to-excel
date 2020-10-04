@@ -5,7 +5,7 @@ file.close()
 import xlsxwriter
 workbook = xlsxwriter.Workbook('../windows/gpu_user_windows.xlsx')
 worksheet = workbook.add_worksheet()
-_arr_title = ['date_hour_of_Aug', 0, 1, 2, 3, 4, 5, 6, 7]
+_arr_title = ['date_hour', 0, 1, 2, 3, 4, 5, 6, 7]
 row = 0
 col = 0
 for element_title in _arr_title:

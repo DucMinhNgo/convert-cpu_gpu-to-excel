@@ -8,7 +8,7 @@ workbook = xlsxwriter.Workbook('../emage/emage_gpu_usage.xlsx')
 worksheet = workbook.add_worksheet()
 row = 0
 col = 0
-_arr_title = ['date_hour_of_Aug', 0, 1, 2, 3, 4, 5, 6, 7]
+_arr_title = ['date_hour', 0, 1, 2, 3, 4, 5, 6, 7]
 
 for element_title in _arr_title:
     worksheet.write(row, col, element_title)
@@ -19,7 +19,7 @@ _count = 0
 print (len(lines))
 _len_lines = len(lines)
 _arr_hour = [0, 6, 12, 18]
-_arr_mouth = ['Aug', 'Sep']
+from  Userlist.array_month import _arr_mouth
 while (_count < _len_lines):
     date_line = lines[_count]
     date_line = " ".join(date_line.split())

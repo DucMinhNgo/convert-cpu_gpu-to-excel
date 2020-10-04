@@ -20,7 +20,10 @@ _len_lines = len(lines)
 
 _arr_hour = [0, 6, 12, 18]
 # 
-_arr_mouth = ['Aug', 'Sep']
+from  Userlist.array_month import _arr_mouth
+print ('_arr_mouth')
+print (_arr_mouth)
+# _arr_mouth = ['Aug', 'Sep']
 while (_count < _len_lines):
     date_line = lines[_count]
     date_line = " ".join(date_line.split())

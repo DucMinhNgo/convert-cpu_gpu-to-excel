@@ -3530,3 +3530,1436 @@ USED
 0 uuidd
 119 vignesh
 0 xrdp
+Tue Sep 22 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+14.5 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+1.1 root
+0.6 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0 xrdp
+Tue Sep 22 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.1 root
+14.5 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.7 root
+0.6 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0 xrdp
+Wed Sep 23 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+14.5 shreevi+
+0 
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.8 root
+0.6 shreevi+
+0 
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0 xrdp
+Wed Sep 23 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shivaraj
+14.5 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+1.2 root
+2.4 shivaraj
+0.6 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0 xrdp
+Wed Sep 23 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shivaraj
+14.5 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.8 root
+1.9 shivaraj
+0.6 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0.1 xrdp
+Wed Sep 23 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.1 root
+0 shivaraj
+14.5 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+11.4 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.8 root
+2.3 shivaraj
+0.6 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0 xrdp
+Thu Sep 24 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+14.5 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+11.5 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.8 root
+0.6 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+119 vignesh
+0 xrdp
+Thu Sep 24 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.1 root
+0 shivaraj
+0 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+USED
+””
+5.3 bhabani
+0 daemon
+1 dustin
+0 message+
+0 nobody
+0 pravin
+104.1 root
+7 shivaraj
+0.3 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+Thu Sep 24 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.3 pravin
+0 root
+12.7 shivaraj
+0 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+674 pravin
+1.2 root
+183.9 shivaraj
+0.3 shreevi+
+0.1 sshd
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+Thu Sep 24 18:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.5 pravin
+0 root
+12.8 shivaraj
+0 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1211 pravin
+5 root
+181 shivaraj
+0.3 shreevi+
+0.1 sshd
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+Fri Sep 25 00:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2 pravin
+0 root
+12.9 shivaraj
+0 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1215 pravin
+21.8 root
+181 shivaraj
+0.3 shreevi+
+0 syslog
+0 systemd+
+0 uuidd
+0 vignesh
+0 xrdp
+Fri Sep 25 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 nobody
+6 pravin
+0 root
+0 shivaraj
+0 shreevi+
+0 syslog
+0 systemd+
+0 thinh
+0 vignesh
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 nobody
+2703.1 pravin
+2.8 root
+0 shivaraj
+0 shreevi+
+0 syslog
+0 systemd+
+0 thinh
+0 vignesh
+0 xrdp
+Fri Sep 25 12:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+2.8 pravin
+0 root
+3.6 shivaraj
+3.1 shreevi+
+0 syslog
+0 systemd+
+0 vignesh
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+932 pravin
+1.2 root
+181.9 shivaraj
+1272.2 shreevi+
+0 syslog
+0 systemd+
+0.4 vignesh
+0 xrdp
+Fri Sep 25 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+2.3 pravin
+0 root
+13.7 shivaraj
+3.6 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+893.6 pravin
+2.4 root
+280.1 shivaraj
+1279.1 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sat Sep 26 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+2.1 pravin
+0 root
+13.8 shivaraj
+3.7 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+872 pravin
+2.9 root
+280.5 shivaraj
+1268 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Sat Sep 26 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 nobody
+1.7 pravin
+0 root
+13.9 shivaraj
+3.3 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+16 dustin
+0 nobody
+859 pravin
+3.6 root
+282.5 shivaraj
+1251 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sat Sep 26 12:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+2.7 gowtham
+0 nobody
+1.6 pravin
+0 root
+14 shivaraj
+2.5 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+95.5 gowtham
+0 nobody
+852 pravin
+3.4 root
+280.7 shivaraj
+1244 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sat Sep 26 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+2.7 gowtham
+0 nobody
+1.7 pravin
+0 root
+13.9 shivaraj
+2.5 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+93.7 gowtham
+0 nobody
+863 pravin
+3.3 root
+275.4 shivaraj
+1262 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Sun Sep 27 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+2.8 gowtham
+0 nobody
+1.7 pravin
+0.1 root
+13.9 shivaraj
+2.5 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+93 gowtham
+0 nobody
+873 pravin
+3.9 root
+270.9 shivaraj
+1278 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sun Sep 27 06:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+2.8 gowtham
+0 nobody
+1.7 pravin
+0 root
+14.3 shivaraj
+2.5 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+12 dustin
+93.6 gowtham
+0 nobody
+870 pravin
+3.9 root
+271.9 shivaraj
+1269 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sun Sep 27 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+2.8 gowtham
+0 nobody
+1.7 pravin
+0 root
+13.9 shivaraj
+2.3 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+17 dustin
+94.7 gowtham
+0 nobody
+849 pravin
+4.3 root
+276.4 shivaraj
+1238 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sun Sep 27 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+2.8 gowtham
+0 nobody
+1.6 pravin
+0 root
+14 shivaraj
+2.1 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+96.2 gowtham
+0 nobody
+821 pravin
+4.6 root
+283.6 shivaraj
+1195 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Mon Sep 28 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+2.9 gowtham
+0 nobody
+1.6 pravin
+0 root
+13.9 shivaraj
+2 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+95.4 gowtham
+0 nobody
+830 pravin
+4.3 root
+279.5 shivaraj
+1218 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Mon Sep 28 06:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 nobody
+1.7 pravin
+0 root
+0 shivaraj
+2 shreevi+
+0 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 bhabani
+0 daemon
+0 dustin
+0 nobody
+840 pravin
+3.7 root
+0 shivaraj
+1242 shreevi+
+1 sshd
+0 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Mon Sep 28 12:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+1.6 pravin
+0 root
+0 shivaraj
+2 shreevi+
+2.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+9 dustin
+0 nobody
+853 pravin
+3.5 root
+0 shivaraj
+1265 shreevi+
+94.1 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Mon Sep 28 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+1.6 pravin
+0 root
+0 shivaraj
+2 shreevi+
+2.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+864 pravin
+3.4 root
+0 shivaraj
+1283 shreevi+
+94.5 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Tue Sep 29 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+1.6 pravin
+0 root
+0 shivaraj
+2.1 shreevi+
+2.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+873 pravin
+3.3 root
+0 shivaraj
+1300 shreevi+
+94.5 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Tue Sep 29 06:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+1.6 pravin
+0 root
+0 shivaraj
+2.4 shreevi+
+2.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+885 pravin
+3 root
+0 shivaraj
+1421 shreevi+
+94.8 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Tue Sep 29 12:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+1.6 pravin
+0 root
+0 shivaraj
+2.9 shreevi+
+2.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+892 pravin
+2.9 root
+0 shivaraj
+1549 shreevi+
+94.4 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Tue Sep 29 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+1.6 pravin
+0 root
+0 shivaraj
+3 shreevi+
+2.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+899 pravin
+2.8 root
+0 shivaraj
+1555 shreevi+
+94.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Wed Sep 30 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+1.6 pravin
+0 root
+0 shivaraj
+3.1 shreevi+
+2.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+907 pravin
+2.8 root
+0 shivaraj
+1552 shreevi+
+94.2 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Wed Sep 30 06:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 nobody
+1.6 pravin
+0 root
+0 shivaraj
+3.1 shreevi+
+2.2 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 nobody
+913 pravin
+2.5 root
+0 shivaraj
+1552 shreevi+
+94.1 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Wed Sep 30 12:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.8 pravin
+0 root
+0 shivaraj
+2 shreevi+
+2.4 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+9 dustin
+0 message+
+0 nobody
+1093 pravin
+1.2 root
+1.3 shivaraj
+1523 shreevi+
+100 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Wed Sep 30 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.8 pravin
+0 root
+2.9 shreevi+
+2.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1045 pravin
+1.3 root
+1556 shreevi+
+96.2 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Thu Oct  1 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.8 pravin
+0 root
+3 shreevi+
+2.1 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1035 pravin
+1.4 root
+1559 shreevi+
+95 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Thu Oct  1 06:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.8 pravin
+0 root
+0 shivaraj
+3 shreevi+
+2 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+11 dustin
+0 message+
+0 nobody
+1037 pravin
+1.5 root
+8.8 shivaraj
+1557 shreevi+
+94.3 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Thu Oct  1 12:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.8 pravin
+0 root
+0 shivaraj
+3.1 shreevi+
+0 
+1.9 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1037.2 pravin
+1.5 root
+0 shivaraj
+1562 shreevi+
+0 
+93.9 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Thu Oct  1 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.9 pravin
+0 root
+0 shivaraj
+3.2 shreevi+
+1.9 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+12 dustin
+0 message+
+0 nobody
+1034.4 pravin
+1.5 root
+0 shivaraj
+1565 shreevi+
+93.7 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Fri Oct  2 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.8 pravin
+0 root
+0 shivaraj
+3.2 shreevi+
+0 sshd
+1.9 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1038.8 pravin
+2 root
+0 shivaraj
+1564 shreevi+
+0 sshd
+93.6 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Fri Oct  2 06:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.8 pravin
+0 root
+0 shivaraj
+3.2 shreevi+
+0 sshd
+1.9 suraj
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+1036.1 pravin
+1.6 root
+0 shivaraj
+1562 shreevi+
+0 sshd
+93.6 suraj
+0 syslog
+0 systemd+
+0 xrdp
+Fri Oct  2 12:00:01 UTC 2020
+MEMORY
+””
+0 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shivaraj
+0 shreevi+
+0 
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+1.8 bhabani
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+1.7 root
+1.8 shivaraj
+0 shreevi+
+0 
+0 syslog
+0 systemd+
+0 xrdp
+Fri Oct  2 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+1.9 root
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Sat Oct  3 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+2.4 root
+0 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sat Oct  3 06:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+1.5 root
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Sat Oct  3 12:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+2.1 pravin
+1.4 root
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Sat Oct  3 18:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shivaraj
+0 shreevi+
+0 
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+1.4 root
+0 shivaraj
+0 shreevi+
+0 
+0 syslog
+0 systemd+
+0 xrdp
+Sun Oct  4 00:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shivaraj
+0 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+2.4 root
+0 shivaraj
+0 shreevi+
+0 sshd
+0 syslog
+0 systemd+
+0 xrdp
+Sun Oct  4 06:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0 root
+0 shivaraj
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+11 dustin
+0 message+
+0 nobody
+0 pravin
+29.6 root
+0 shivaraj
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+Sun Oct  4 12:00:01 UTC 2020
+MEMORY
+””
+0 daemon
+0 dustin
+0 message+
+0 nobody
+0 pravin
+0.1 root
+0 shivaraj
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp
+USED
+””
+0 daemon
+13 dustin
+0 message+
+0 nobody
+0 pravin
+3.6 root
+0 shivaraj
+0 shreevi+
+0 syslog
+0 systemd+
+0 xrdp

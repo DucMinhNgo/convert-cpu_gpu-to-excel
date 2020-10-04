@@ -30188,3 +30188,493 @@ utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [Mi
 0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
 0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
 0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Tue Sep 22 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+80 %, 50 %, 11019 MiB, 49 MiB, 10970 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Tue Sep 22 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+78 %, 49 %, 11019 MiB, 49 MiB, 10970 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Wed Sep 23 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+78 %, 49 %, 11019 MiB, 49 MiB, 10970 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Wed Sep 23 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+79 %, 49 %, 11019 MiB, 49 MiB, 10970 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Wed Sep 23 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+76 %, 47 %, 11019 MiB, 49 MiB, 10970 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Wed Sep 23 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+77 %, 49 %, 11019 MiB, 49 MiB, 10970 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Thu Sep 24 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+77 %, 49 %, 11019 MiB, 49 MiB, 10970 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 10863 MiB, 156 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Thu Sep 24 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Thu Sep 24 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+66 %, 43 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 105 MiB, 10914 MiB
+0 %, 0 %, 11019 MiB, 105 MiB, 10914 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Thu Sep 24 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+64 %, 40 %, 11019 MiB, 95 MiB, 10924 MiB
+90 %, 42 %, 11019 MiB, 105 MiB, 10914 MiB
+91 %, 42 %, 11019 MiB, 105 MiB, 10914 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Fri Sep 25 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+36 %, 24 %, 11019 MiB, 95 MiB, 10924 MiB
+91 %, 43 %, 11019 MiB, 105 MiB, 10914 MiB
+92 %, 43 %, 11019 MiB, 105 MiB, 10914 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Fri Sep 25 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+35 %, 24 %, 11019 MiB, 35 MiB, 10984 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Fri Sep 25 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+95 %, 59 %, 11019 MiB, 121 MiB, 10898 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+31 %, 21 %, 11019 MiB, 240 MiB, 10779 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Fri Sep 25 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 95 MiB, 10924 MiB
+90 %, 37 %, 11019 MiB, 103 MiB, 10916 MiB
+92 %, 36 %, 11019 MiB, 103 MiB, 10916 MiB
+86 %, 35 %, 11019 MiB, 103 MiB, 10916 MiB
+28 %, 18 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sat Sep 26 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 95 MiB, 10924 MiB
+79 %, 30 %, 11019 MiB, 103 MiB, 10916 MiB
+82 %, 36 %, 11019 MiB, 103 MiB, 10916 MiB
+84 %, 34 %, 11019 MiB, 103 MiB, 10916 MiB
+0 %, 0 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sat Sep 26 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+10 %, 7 %, 11019 MiB, 95 MiB, 10924 MiB
+73 %, 28 %, 11019 MiB, 103 MiB, 10916 MiB
+58 %, 23 %, 11019 MiB, 103 MiB, 10916 MiB
+77 %, 29 %, 11019 MiB, 103 MiB, 10916 MiB
+26 %, 16 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sat Sep 26 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+36 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+88 %, 34 %, 11019 MiB, 103 MiB, 10916 MiB
+86 %, 33 %, 11019 MiB, 103 MiB, 10916 MiB
+89 %, 34 %, 11019 MiB, 103 MiB, 10916 MiB
+40 %, 25 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+93 %, 50 %, 11019 MiB, 37 MiB, 10982 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sat Sep 26 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+37 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+90 %, 33 %, 11019 MiB, 103 MiB, 10916 MiB
+87 %, 36 %, 11019 MiB, 103 MiB, 10916 MiB
+90 %, 32 %, 11019 MiB, 103 MiB, 10916 MiB
+35 %, 22 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+94 %, 51 %, 11019 MiB, 37 MiB, 10982 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sun Sep 27 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+22 %, 13 %, 11019 MiB, 95 MiB, 10924 MiB
+89 %, 31 %, 11019 MiB, 103 MiB, 10916 MiB
+86 %, 31 %, 11019 MiB, 103 MiB, 10916 MiB
+89 %, 33 %, 11019 MiB, 103 MiB, 10916 MiB
+35 %, 23 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+93 %, 52 %, 11019 MiB, 37 MiB, 10982 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sun Sep 27 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+36 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+86 %, 34 %, 11019 MiB, 101 MiB, 10918 MiB
+87 %, 37 %, 11019 MiB, 101 MiB, 10918 MiB
+91 %, 34 %, 11019 MiB, 101 MiB, 10918 MiB
+34 %, 21 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+90 %, 48 %, 11019 MiB, 37 MiB, 10982 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sun Sep 27 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+87 %, 32 %, 11019 MiB, 101 MiB, 10918 MiB
+85 %, 34 %, 11019 MiB, 101 MiB, 10918 MiB
+85 %, 33 %, 11019 MiB, 101 MiB, 10918 MiB
+31 %, 20 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+91 %, 51 %, 11019 MiB, 37 MiB, 10982 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sun Sep 27 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 22 %, 11019 MiB, 95 MiB, 10924 MiB
+91 %, 30 %, 11019 MiB, 101 MiB, 10918 MiB
+92 %, 33 %, 11019 MiB, 101 MiB, 10918 MiB
+93 %, 35 %, 11019 MiB, 101 MiB, 10918 MiB
+31 %, 20 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+91 %, 48 %, 11019 MiB, 37 MiB, 10982 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Mon Sep 28 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+36 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+93 %, 36 %, 11019 MiB, 101 MiB, 10918 MiB
+93 %, 35 %, 11019 MiB, 101 MiB, 10918 MiB
+93 %, 35 %, 11019 MiB, 101 MiB, 10918 MiB
+41 %, 26 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+89 %, 49 %, 11019 MiB, 37 MiB, 10982 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Mon Sep 28 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+49 %, 32 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Mon Sep 28 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+56 %, 36 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+43 %, 29 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+98 %, 41 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Mon Sep 28 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+46 %, 30 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+97 %, 43 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Tue Sep 29 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+17 %, 12 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+24 %, 15 %, 11019 MiB, 238 MiB, 10781 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+96 %, 41 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Tue Sep 29 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+57 %, 37 %, 11019 MiB, 99 MiB, 10920 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+96 %, 40 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Tue Sep 29 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+27 %, 18 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+98 %, 43 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Tue Sep 29 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+51 %, 34 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+98 %, 44 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Wed Sep 30 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+22 %, 9 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+27 %, 18 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+94 %, 43 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Wed Sep 30 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+52 %, 34 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+98 %, 44 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Wed Sep 30 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+48 %, 30 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+44 %, 28 %, 11019 MiB, 99 MiB, 10920 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+98 %, 42 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Wed Sep 30 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+52 %, 33 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+40 %, 27 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+97 %, 44 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Thu Oct  1 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+30 %, 20 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+99 %, 42 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Thu Oct  1 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+45 %, 29 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+52 %, 33 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+98 %, 43 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Thu Oct  1 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+31 %, 20 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+26 %, 16 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+99 %, 42 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Thu Oct  1 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+29 %, 19 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+28 %, 18 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+99 %, 42 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Fri Oct  2 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+30 %, 20 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+98 %, 42 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Fri Oct  2 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+35 %, 23 %, 11019 MiB, 95 MiB, 10924 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+52 %, 34 %, 11019 MiB, 97 MiB, 10922 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+97 %, 47 %, 11019 MiB, 119 MiB, 10900 MiB
+0 %, 0 %, 11019 MiB, 10861 MiB, 158 MiB
+Fri Oct  2 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Fri Oct  2 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sat Oct  3 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sat Oct  3 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sat Oct  3 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sat Oct  3 18:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sun Oct  4 00:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sun Oct  4 06:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+Sun Oct  4 12:00:01 UTC 2020
+utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB
+0 %, 0 %, 11019 MiB, 11018 MiB, 1 MiB

@@ -8,7 +8,7 @@ worksheet = workbook.add_worksheet()
 
 row = 0
 col = 0
-_arr_title = ['date_hour_of_Aug', 0, 1, 2, 3, 4, 5, 6, 7]
+_arr_title = ['date_hour', 0, 1, 2, 3, 4, 5, 6, 7]
 
 for element_title in _arr_title:
     worksheet.write(row, col, element_title)
@@ -39,6 +39,7 @@ while (_count < _len_lines):
     col = 1
     while (_sub_count < _len_of_gpu):
         get_percentage = lines[_count + _sub_count].split(',')[0]
+        print (get_percentage)
         data_gpu = int(get_percentage.split(' ')[0])
         print (data_gpu)
         if (_time in _arr_hour and _real_minite == 14):

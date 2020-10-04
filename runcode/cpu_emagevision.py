@@ -9,7 +9,7 @@ workbook = xlsxwriter.Workbook('../emagevision/cpu_emagevision.xlsx')
 worksheet = workbook.add_worksheet()
 row = 0
 col = 0
-_arr_title = ['date_hour_of_Aug', 'cpu_used']
+_arr_title = ['date_hour', 'cpu_used']
 for element_title in _arr_title:
     worksheet.write(row, col, element_title)
     col += 1
@@ -19,7 +19,8 @@ _count = 0
 _len_lines = len(lines)
 
 _arr_hour = [0, 6, 12, 18]
-_arr_mouth = ['Aug', 'Sep']
+from  Userlist.array_month import _arr_mouth
+# _arr_mouth = ['Aug', 'Sep', 'Oct']
 while (_count < _len_lines):
     date_line = lines[_count]
     date_line = " ".join(date_line.split())
